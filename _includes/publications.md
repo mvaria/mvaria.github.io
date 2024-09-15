@@ -1,6 +1,6 @@
-## Selected Publications
+### Selected Publications
 
-The remainder of this page describes some major themes of my research along with links to selected peer-reviewed publications. You can find a list of all of my publications at <a href="https://dblp.org/pid/59/6288.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=lneZSfIAAAAJ">Google Scholar</a>.
+The remainder of this page describes some major themes of my research and links to selected peer-reviewed publications. You can find a list of all of my publications at <a href="https://dblp.org/pid/59/6288.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=lneZSfIAAAAJ">Google Scholar</a>.
 
 
 ### <i class="fa fa-cloud"></i> Data Analysis for Social Good
@@ -16,14 +16,14 @@ I deploy privacy-respecting systems in practice, with a focus on empowerment and
     {% if link.pdf %} 
       <a href="{{ link.pdf }}" style="font-size:12px;">[PDF]</a>
       {% endif %}
+      {% if link.bibtex %} 
+      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
+      {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" style="font-size:12px;">[Code]</a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" style="font-size:12px;">[Project Page]</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
@@ -50,14 +50,14 @@ I design and develop cryptographic systems that allow people to perform collabor
     {% if link.pdf %} 
       <a href="{{ link.pdf }}" style="font-size:12px;">[PDF]</a>
       {% endif %}
+      {% if link.bibtex %} 
+      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
+      {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" style="font-size:12px;">[Code]</a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" style="font-size:12px;">[Project Page]</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
@@ -84,14 +84,14 @@ I examine the social impact of cryptography and the design of cryptosystems that
     {% if link.pdf %} 
       <a href="{{ link.pdf }}" style="font-size:12px;">[PDF]</a>
       {% endif %}
+      {% if link.bibtex %} 
+      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
+      {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" style="font-size:12px;">[Code]</a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" style="font-size:12px;">[Project Page]</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
@@ -118,14 +118,14 @@ I design foundational crypto algorithms, including distributed algorithms that a
     {% if link.pdf %} 
       <a href="{{ link.pdf }}" style="font-size:12px;">[PDF]</a>
       {% endif %}
+      {% if link.bibtex %} 
+      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
+      {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" style="font-size:12px;">[Code]</a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" style="font-size:12px;">[Project Page]</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
@@ -152,13 +152,13 @@ I construct formal, composable proofs of security for cryptographic protocols an
       <a href="{{ link.pdf }}" style="font-size:12px;">[PDF]</a>
       {% endif %}
       {% if link.code %} 
+      {% if link.bibtex %} 
+      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
+      {% endif %}
       <a href="{{ link.code }}" style="font-size:12px;">[Code]</a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" style="font-size:12px;">[Project Page]</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
@@ -184,14 +184,14 @@ I develop information theoric bounds on data reconstruction attacks, and charact
     {% if link.pdf %} 
       <a href="{{ link.pdf }}" style="font-size:12px;">[PDF]</a>
       {% endif %}
+      {% if link.bibtex %} 
+      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
+      {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" style="font-size:12px;">[Code]</a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" style="font-size:12px;">[Project Page]</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
@@ -217,14 +217,14 @@ My <a href="https://dspace.mit.edu/handle/1721.1/64489">PhD thesis</a> provides 
     {% if link.pdf %} 
       <a href="{{ link.pdf }}" style="font-size:12px;">[PDF]</a>
       {% endif %}
+      {% if link.bibtex %} 
+      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
+      {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" style="font-size:12px;">[Code]</a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" style="font-size:12px;">[Project Page]</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
