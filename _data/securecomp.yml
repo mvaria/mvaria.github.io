@@ -1,0 +1,49 @@
+main:
+
+  - title: "TVA: A multi-party computation system for secure and expressive time series analytics"
+    authors: Muhammad Faisal, Jerry Zhang, John Liagouris, Vasiliki Kalavri, Mayank Varia
+    conference_short: 2023
+    conference: USENIX Security 2023
+    pdf: https://www.usenix.org/system/files/usenixsecurity23-faisal.pdf
+    code: https://github.com/CASP-Systems-BU/tva
+    bibtex: https://dblp.org/rec/conf/uss/FaisalZLKV23.html?view=bibtex
+    # page: 
+    # notes: 
+
+  - title: "Secrecy: Secure collaborative analytics in untrusted clouds"
+    authors: John Liagouris, Vasiliki Kalavri, Muhammad Faisal, Mayank Varia
+    conference: NSDI 2023
+    pdf: https://www.usenix.org/system/files/nsdi23-liagouris.pdf
+    code: https://github.com/CASP-Systems-BU/Secrecy
+    bibtex: https://dblp.org/rec/conf/nsdi/LiagourisKFV23.html?view=bibtex
+
+  - title: "Batched Differentially Private Information Retrieval"
+    authors: Kinan Dak Albab, Rawane Issa, Mayank Varia, Kalman Graffi
+    conference: USENIX Security 2022
+    pdf: https://www.usenix.org/system/files/sec22-albab.pdf
+    code: https://github.com/multiparty/DP-PIR/tree/usenix2022
+    bibtex: https://dblp.org/rec/conf/uss/IssaAV22.html?view=bibtex
+
+  - title: "Secret Sharing MPC on FPGAs in the Datacenter"
+    authors: Pierre-Francois Wolfe, Rushi Patel, Robert Munafo, Mayank Varia, Martin C. Herbordt
+    conference: FPL 2020
+    pdf: https://arxiv.org/pdf/2007.00826.pdf
+    bibtex: https://dblp.org/rec/conf/fpl/WolfePMVH20.html?view=bibtex
+
+  - title: "Arithmetic and Boolean Secret Sharing MPC on FPGAs in the Data Center"
+    authors: Rushi Patel, Pierre-Francois Wolfe, Robert Munafo, Mayank Varia, Martin C. Herbordt
+    conference: HPEC 2020
+    pdf: https://par.nsf.gov/servlets/purl/10195302
+    bibtex: https://dblp.org/rec/conf/hpec/PatelWMVH20.html?view=bibtex
+
+  - title: "Conclave: Secure Multi-Party Computation on Big Data"
+    authors: Nikolaj Volgushev, Malte Schwarzkopf, Ben Getchell, Mayank Varia, Andrei Lapets, Azer Bestavros
+    conference: EuroSys 2019
+    pdf: https://arxiv.org/pdf/1902.06288.pdf
+    bibtex: https://dblp.org/rec/conf/eurosys/VolgushevSGVLB19.html?view=bibtex
+
+  - title: "SoK: Cryptographically Protected Database Search"
+    authors: Benjamin Fuller, Mayank Varia, Arkady Yerukhimovich, Emily Shen, Ariel Hamlin, Vijay Gadepally, Richard Shay, John Darby Mitchell, Robert K. Cunningham
+    conference: IEEE Security & Privacy (Oakland) 2017
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958577
+    bibtex: https://dblp.org/rec/conf/sp/FullerVYSHGSMC17.html?view=bibtex

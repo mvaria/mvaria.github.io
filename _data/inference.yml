@@ -1,0 +1,25 @@
+main:
+
+  - title: "Privacy With Estimation Guarantees"
+    authors: Hao Wang, Lisa Vo, Flávio P. Calmon, Muriel Médard, Ken R. Duffy, Mayank Varia
+    conference: IEEE Transactions in Information Theory (2019)
+    pdf: https://arxiv.org/pdf/1710.00447.pdf
+    bibtex: https://dblp.org/rec/journals/tit/WangVCMDV19.html?view=bibtex
+
+  - title: "Principal Inertia Components and Applications"
+    authors: Flávio du Pin Calmon, Ali Makhdoumi, Muriel Médard, Mayank Varia, Mark M. Christiansen, Ken R. Duffy
+    conference: IEEE Transactions in Information Theory (2017)
+    pdf: https://arxiv.org/pdf/1704.00820.pdf
+    bibtex: https://dblp.org/rec/journals/tit/CalmonMMVCD17.html?view=bibtex
+
+  - title: "On Information-Theoretic Metrics for Symmetric-Key Encryption and Privacy"
+    authors: Flávio P. Calmon, Mayank Varia, Muriel Médard
+    conference: Allerton 2014
+    pdf: https://ieeexplore.ieee.org/document/7028548
+    bibtex: https://dblp.org/rec/conf/allerton/CalmonVM14.html?view=bibtex
+
+  - title: "Bounds on inference"
+    authors: Flávio P. Calmon, Mayank Varia, Muriel Médard, Mark M. Christiansen, Ken R. Duffy, Stefano Tessaro
+    conference: Allerton 2013
+    pdf: https://arxiv.org/pdf/1310.1512.pdf
+    bibtex: https://dblp.org/rec/conf/allerton/CalmonVMCDT13.html?view=bibtex

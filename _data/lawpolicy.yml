@@ -1,0 +1,39 @@
+main:
+
+  - title: "Hecate: Abuse Reporting in Secure Messengers with Sealed Sender"
+    authors: Rawane Issa, Nicolas Alhaddad, Mayank Varia
+    conference: USENIX Security 2022
+    pdf: https://eprint.iacr.org/2021/1686.pdf
+    code: https://github.com/Ra1issa/hecate
+    bibtex: https://dblp.org/rec/conf/uss/IssaAV22.html?view=bibtex
+
+  - title: "Can the Government Compel Decryption? Don't Trust - Verify"
+    authors: Aloni Cohen, Sarah Scheffler, Mayank Varia
+    conference: CSLaw 2022
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3511265.3550441
+    bibtex: https://dblp.org/rec/conf/cslaw/CohenSV22.html?view=bibtex
+
+  - title: "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity"
+    authors: Sarah Scheffler, Eran Tromer, Mayank Varia
+    conference: CSLaw 2022
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3511265.3550444
+    bibtex: https://dblp.org/rec/conf/cslaw/SchefflerTV22.html?view=bibtex
+
+  - title: "Multi-Regulation Computing: Examining the Legal and Policy Questions That Arise From Secure Multiparty Computation"
+    authors: Julissa Milligan Walsh, Mayank Varia, Aloni Cohen, Andrew Sellars, Azer Bestavros
+    conference: CSLaw 2022
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3511265.3550445
+    bibtex: https://dblp.org/rec/conf/cslaw/SchefflerTV22.html?view=bibtex
+
+  - title: "Protecting Cryptography Against Compelled Self-Incrimination"
+    authors: Sarah Scheffler, Mayank Varia
+    conference: USENIX Security 2021
+    pdf: https://eprint.iacr.org/2020/862.pdf
+    code: https://github.com/sarahscheffler/password-ag2pc
+    bibtex: https://dblp.org/rec/conf/uss/SchefflerV21.html?view=bibtex
+
+  - title: "A Cryptographic Airbag for Metadata: Protecting Business Records Against Unlimited Search and Seizure"
+    authors: Charles V. Wright, Mayank Varia
+    conference: FOCI 2018
+    pdf: https://www.usenix.org/system/files/conference/foci18/foci18-paper-wright.pdf
+    bibtex: https://dblp.org/rec/conf/uss/WrightV18.html?view=bibtex

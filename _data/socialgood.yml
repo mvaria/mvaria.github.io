@@ -1,0 +1,34 @@
+main:
+
+  - title: "Secure Account Recovery for a Privacy-Preserving Web Service"
+    authors: Ryan Little, Lucy Qin, Mayank Varia
+    conference: USENIX Security 2024
+    pdf: https://www.usenix.org/system/files/usenixsecurity24-little.pdf
+    code: https://github.com/multiparty/web-mpc
+    bibtex: https://dblp.org/rec/conf/uss/LittleQV24.html?view=bibtex
+
+  - title: "From Usability to Secure Computing and Back Again"
+    authors: Lucy Qin, Andrei Lapets, Frederick Jansen, Peter Flockhart, Kinan Dak Albab, Ira Globus-Harris, Shannon Roberts, Mayank Varia
+    conference: SOUPS 2019
+    pdf: https://www.usenix.org/system/files/soups2019-qin.pdf
+    code: https://github.com/multiparty/web-mpc
+    bibtex: https://dblp.org/rec/conf/soups/QinLJFAGRV19.html?view=bibtex
+
+  - title: "Accessible Privacy-Preserving Web-Based Data Analysis for Assessing and Addressing Economic Inequalities"
+    authors: 	Andrei Lapets, Frederick Jansen, Kinan Dak Albab, Rawane Issa, Lucy Qin, Mayank Varia, Azer Bestavros
+    conference: COMPASS 2018
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3209811.3212701
+    code: https://github.com/multiparty/jiff
+    bibtex: https://dblp.org/rec/conf/dev/LapetsJAIQVB18.html?view=bibtex
+
+  - title: "Callisto: A Cryptographic Approach to Detecting Serial Perpetrators of Sexual Misconduct"
+    authors: Anjana Rajan, Lucy Qin, David W. Archer, Dan Boneh, Tancrède Lepoint, Mayank Varia
+    conference: COMPASS 2018
+    pdf: https://static1.squarespace.com/static/5dafd58b3aca646be471ba55/t/61bf43f9ae1115480709395f/1639924730113/callisto-cryptographic-approach.pdf
+    bibtex: https://dblp.org/rec/conf/dev/RajanQABLV18.html?view=bibtex
+
+  - title: "User-centric distributed solutions for privacy-preserving analytics"
+    authors: Azer Bestavros, Andrei Lapets, Mayank Varia
+    conference: Communications of the ACM (2017)
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3029603
+    bibtex: https://dblp.org/rec/journals/cacm/BestavrosLV17.html?view=bibtex

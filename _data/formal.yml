@@ -1,0 +1,40 @@
+main:
+
+  - title: "Universally Composable End-to-End Secure Messaging"
+    authors: Ran Canetti, Palak Jain, Marika Swanberg, Mayank Varia
+    conference: CRYPTO 2022
+    pdf: https://eprint.iacr.org/2022/376.pdf
+    bibtex: https://dblp.org/rec/conf/crypto/CanettiJSV22.html?view=bibtex
+
+  - title: "EasyUC: Using EasyCrypt to Mechanize Proofs of Universally Composable Security"
+    authors: Ran Canetti, Alley Stoughton, Mayank Varia
+    conference: CSF 2019
+    pdf: https://eprint.iacr.org/2019/582.pdf
+    code: https://github.com/easyuc/EasyUC
+    bibtex: https://dblp.org/rec/conf/csfw/CanettiSV19.html?view=bibtex
+
+  - title: "On the Universally Composable Security of OpenStack"
+    authors: Kyle Hogan, Hoda Maleki, Reza Rahaeimehr, Ran Canetti, Marten van Dijk, Jason Hennessey, Mayank Varia, Haibin Zhang
+    conference: SecDev 2019
+    pdf: https://eprint.iacr.org/2018/602.pdf
+    bibtex: https://dblp.org/rec/conf/secdev/HoganMRCDHVZ19.html?view=bibtex
+
+  - title: "The Security of NTP's Datagram Protocol"
+    authors: Aanchal Malhotra, Matthew Van Gundy, Mayank Varia, Haydn Kennedy, Jonathan Gardner, Sharon Goldberg
+    conference: FC 2017
+    pdf: https://eprint.iacr.org/2016/1006.pdf
+    bibtex: https://dblp.org/rec/conf/fc/MalhotraGVKGG17.html?view=bibtex
+
+  - title: "A Universally Composable Treatment of Network Time"
+    authors: Ran Canetti, Kyle Hogan, Aanchal Malhotra, Mayank Varia
+    conference: CSF 2017
+    pdf: https://eprint.iacr.org/2017/1256.pdf
+    bibtex: https://dblp.org/rec/conf/csfw/CanettiHMV17.html?view=bibtex
+
+  - title: "Mechanizing the Proof of Adaptive, Information-Theoretic Security of Cryptographic Protocols in the Random Oracle Model"
+    authors: Alley Stoughton, Mayank Varia
+    conference: CSF 2017
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8049653
+    code: https://github.com/alleystoughton/PCR
+    bibtex: https://dblp.org/rec/conf/csfw/StoughtonV17.html?view=bibtex
+
