@@ -10,7 +10,7 @@ I deploy privacy-respecting systems in practice, with a focus on empowerment and
 <ul>
 {% for link in site.data.socialgood.main %}
 <li>
-    <strong> <a href="{{ link.pdf }}">{{ link.title }}</a></strong>.
+    <strong>{{ link.title }}</strong>.
     {{ link.authors }}.
     <em>{{ link.conference }}</em>.
     {% if link.pdf %} 
@@ -44,7 +44,7 @@ I design and develop cryptographic systems that allow people to perform collabor
 <ul>
 {% for link in site.data.securecomp.main %}
 <li>
-    <strong> <a href="{{ link.pdf }}">{{ link.title }}</a></strong>.
+    <strong>{{ link.title }}</strong>.
     {{ link.authors }}.
     <em>{{ link.conference }}</em>.
     {% if link.pdf %} 
@@ -78,7 +78,7 @@ I examine the social impact of cryptography and the design of cryptosystems that
 <ul>
 {% for link in site.data.lawpolicy.main %}
 <li>
-    <strong> <a href="{{ link.pdf }}">{{ link.title }}</a></strong>.
+    <strong>{{ link.title }}</strong>.
     {{ link.authors }}.
     <em>{{ link.conference }}</em>.
     {% if link.pdf %} 
@@ -112,7 +112,7 @@ I design foundational crypto algorithms, including distributed algorithms that a
 <ul>
 {% for link in site.data.algorithms.main %}
 <li>
-    <strong> <a href="{{ link.pdf }}">{{ link.title }}</a></strong>.
+    <strong>{{ link.title }}</strong>.
     {{ link.authors }}.
     <em>{{ link.conference }}</em>.
     {% if link.pdf %} 
@@ -145,7 +145,7 @@ I construct formal, composable proofs of security for cryptographic protocols an
 <ul>
 {% for link in site.data.formal.main %}
 <li>
-    <strong> <a href="{{ link.pdf }}">{{ link.title }}</a></strong>.
+    <strong>{{ link.title }}</strong>.
     {{ link.authors }}.
     <em>{{ link.conference }}</em>.
     {% if link.pdf %} 
@@ -178,7 +178,7 @@ I develop information theoric bounds on data reconstruction attacks, and charact
 <ul>
 {% for link in site.data.inference.main %}
 <li>
-    <strong> <a href="{{ link.pdf }}">{{ link.title }}</a></strong>.
+    <strong>{{ link.title }}</strong>.
     {{ link.authors }}.
     <em>{{ link.conference }}</em>.
     {% if link.pdf %} 
@@ -211,7 +211,7 @@ My <a href="https://dspace.mit.edu/handle/1721.1/64489">PhD thesis</a> provides 
 <ul>
 {% for link in site.data.obfuscation.main %}
 <li>
-    <strong> <a href="{{ link.pdf }}">{{ link.title }}</a></strong>.
+    <strong>{{ link.title }}</strong>.
     {{ link.authors }}.
     <em>{{ link.conference }}</em>.
     {% if link.pdf %} 
