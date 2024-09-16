@@ -27,7 +27,7 @@ If you are a current BU student and would like to serve as a course assistant: p
 
 ## Advising
 
-I am fortunate to work with several excellent graduate and undergraduate students.
+I am fortunate to work with an excellent group of graduate and undergraduate students.
 
 ### Current postdoc
 
@@ -35,12 +35,12 @@ I am fortunate to work with several excellent graduate and undergraduate student
 
 ### Current PhD students
 
-- [Eli Baum](https://elibaum.com/)
-- [Sam Buxbaum](https://sambux.org/)
-- [Julia Guskind](https://julia-guskind.github.io/)
+- [Eli Baum](https://elibaum.com/) (co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/))
+- [Sam Buxbaum](https://sambux.org/) (co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/))
+- [Julia Guskind](https://julia-guskind.github.io/) (co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/))
 - [Julie Ha](https://www.hajulie.com/)
 - [Ryan Little](https://ryanlittle.net/)
-- [Rene Reyes Bardales](https://ardee-reyes.github.io/)
+- [Rene Reyes Bardales](https://ardee-reyes.github.io/) (co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/))
 
 ### PhD alums
 
@@ -65,11 +65,7 @@ If you are a current or prospective student and would like to work with me, here
 
 - If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about the program). I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
 
-If you are interested in cybersecurity but after reading this page determine that I am not the best fit to be your advisor, then I encourage you to explore the vibrant community of cybersecurity research experts at BU. Boston University is a [Center of Academic Excellence](https://www.caecommunity.org/cae-map) in Cyber Defense and Research.
-
-- In CDS: [Allison McDonald](https://amcdon.com/)
-- In CS: [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/), [Sharon Goldberg](https://www.cs.bu.edu/~goldbe/), [Leo Reyzin](https://www.cs.bu.edu/~reyzin/), [Adam Smith](https://cs-people.bu.edu/ads22/), [Eran Tromer](https://cs-people.bu.edu/tromer/)
-- In ECE: [Manuel Egele](https://www.bu.edu/eng/profile/manuel-egele/), [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/), [Ari Trachtenberg](https://www.bu.edu/eng/profile/ari-trachtenberg/)
+Boston University has a vibrant cybersecurity research community and is recognized as a [Center of Academic Excellence](https://www.caecommunity.org/cae-map) in Cyber Defense and Research. Students who I advise have also worked with other cybersecurity experts at BU like [Allison McDonald](https://amcdon.com/) in CDS; [Ari Trachtenberg](https://www.bu.edu/eng/profile/ari-trachtenberg/) in ECE; and [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Sharon Goldberg](https://www.cs.bu.edu/~goldbe/), [Leo Reyzin](https://www.cs.bu.edu/~reyzin/), [Adam Smith](https://cs-people.bu.edu/ads22/), and [Eran Tromer](https://cs-people.bu.edu/tromer/) in CS. In 2024-25, I'm also excited to host [Dan Roche](https://roche.work/) as a visiting professor at BU.
 
 
 ## Service
