@@ -4,18 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a scientist whose research interests span theoretical and applied cryptography and its applications throughout and beyond computing & data sciences. Concretely, I have:
-- Designed and developed crypto algorithms with provable, composable security guarantees.
-- Deployed privacy-respecting systems for data scientists to work with data they cannot see.
-- Examined the social aspects of cryptography, including its impacts on law and public policy.
+My research interests span theoretical and applied cryptography and its applications throughout and beyond computing & data sciences. My work often involves one or more of the following:
+- Design and develop crypto algorithms with provable, composable security guarantees,
+- Deploy privacy-respecting systems for data scientists to work with data they cannot see, or
+- Examine the social aspects of cryptography, including its impacts on law and public policy.
 
-I work as an Associate Professor in the [Faculty of Computing & Data Sciences](https://www.bu.edu/cds-faculty/) at [Boston University](https://www.bu.edu/). I also serve as the director of the [CDS Hub for Civic Tech Impact](https://www.bu.edu/cds-faculty/research-impact/civic-tech/), co-director of [BU's Center for Reliable Information Systems & Cyber Security](https://www.bu.edu/riscs/), member of the [BU Security Group](https://www.bu.edu/cs/research-groups/security/busec/), and a founding member of the [Cyber Security, Law, and Society Alliance](https://www.bu.edu/hic/centers-initiatives-labs/cyber-alliance/).
+I work as an Associate Professor in the [Faculty of Computing & Data Sciences](https://www.bu.edu/cds-faculty/) at [Boston University](https://www.bu.edu/). I serve as the director of the [CDS Hub for Civic Tech Impact](https://www.bu.edu/cds-faculty/research-impact/civic-tech/), co-director of [BU's Center for Reliable Information Systems & Cyber Security](https://www.bu.edu/riscs/), member of the [BU Security Group](https://www.bu.edu/cs/research-groups/security/busec/), and member of the [Cyber Security, Law, and Society Alliance](https://www.bu.edu/hic/centers-initiatives-labs/cyber-alliance/). I am also an affiliate of BU's [Computer Science department](https://www.bu.edu/cs/people/faculty/).
 
 I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/64489) in 2010, and a [BSE from Duke University](https://math.duke.edu/undergraduate/graduation-with-distinction/senior-theses) in 2005.
 
 ## Teaching
 
-I have taught 15 courses at Boston University. Some courses have been co-taught with my esteemed colleagues at BU: [Azer Bestavros](https://azer.bestavros.net/), [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Gabe Kaptchuk](https://www.cs.umd.edu/~kaptchuk/), [Andrei Lapets](https://lapets.io/), and [Andy Sellars](https://www.bu.edu/law/profile/andrew-sellars/).
+I have taught several courses at Boston University. Some have been co-taught with esteemed colleagues at BU: [Azer Bestavros](https://azer.bestavros.net/), [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Gabe Kaptchuk](https://www.cs.umd.edu/~kaptchuk/), [Andrei Lapets](https://lapets.io/), and [Andy Sellars](https://www.bu.edu/law/profile/andrew-sellars/).
 
 - **Foundations of Data Science II** (DS 121): [fall 2024](https://piazza.com/bu/fall2024/ds121a/info), [fall 2023](https://piazza.com/bu/fall2023/ds121/info), [fall 2022](https://piazza.com/bu/fall2022/ds121/info), [spring 2022](https://piazza.com/bu/spring2022/ds121/info)
 - **Crypto for Data Science** (DS 453 / 653): spring [2024](https://piazza.com/bu/spring2024/ds453653/info), [2023](https://piazza.com/bu/spring2023/ds453653/info)
@@ -25,9 +25,9 @@ I have taught 15 courses at Boston University. Some courses have been co-taught 
 
 If you are a current BU student and would like to serve as a course assistant: please submit a [TF/TA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/tf-application/) if you are a graduate student, or a [CA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/course-assistants/) if you are an undergraduate student.
 
-## Advisees
+## Advising
 
-I am fortunate to work alongside several excellent graduate and undergraduate students.
+I am fortunate to work with several excellent graduate and undergraduate students.
 
 ### Current postdoc
 
@@ -57,13 +57,19 @@ I have co-authored papers with undergraduate students that have been published a
 - Xinyuan Zhang (BS, 2021). Now a PhD student at Duke.
 - Julie Ha (BS, 2022). Now a PhD student at BU.
 
-### How to collaborate with me
+### Applying to work with me
 
-If you are a current or prospective student and would like to work with me, here are my recommendations for the best way to do so.
+If you are a current or prospective student and would like to work with me, here's how to do so.
 
-- If you are a current BU undergraduate or MS student: take a cryptography course such as my own [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or the CS department's [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/). This is the best way to develop your skills and determine your interest level in cryptography. While or after you take a crypto class, please write me an email that clearly explains your research interests, and I will see if I have an ongoing or forthcoming project where you can contribute.
+- If you are a current BU undergraduate or MS student: register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUsec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email that clearly explains your research interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
 
-- If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor. In particular, I will look at your research statement to determine whether it matches my own interests in applied crypto, as described in the "who would fit well with me?" and "what is applied cryptography?" parts of [Prof. Kaptchuk's blog post](https://www.cs.umd.edu/~kaptchuk/blog/post/work-with-me.html). (Please note that I rarely respond to emails about the program.)
+- If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about the program). I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
+
+If you are interested in cybersecurity but after reading this page determine that I am not the best fit to be your advisor, then I encourage you to explore the vibrant community of cybersecurity research experts at BU. Boston University is a [Center of Academic Excellence](https://www.caecommunity.org/cae-map) in Cyber Defense and Research.
+
+- In CDS: [Allison McDonald](https://amcdon.com/)
+- In CS: [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/), [Sharon Goldberg](https://www.cs.bu.edu/~goldbe/), [Leo Reyzin](https://www.cs.bu.edu/~reyzin/), [Adam Smith](https://cs-people.bu.edu/ads22/), [Eran Tromer](https://cs-people.bu.edu/tromer/)
+- In ECE: [Manuel Egele](https://www.bu.edu/eng/profile/manuel-egele/), [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/), [Ari Trachtenberg](https://www.bu.edu/eng/profile/ari-trachtenberg/)
 
 
 ## Service
