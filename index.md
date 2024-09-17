@@ -115,7 +115,7 @@ Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/
 I have written a few technology policy pieces that are publicly available.
 
 - Lawfare: two articles ([[1]](https://www.lawfaremedia.org/article/roadmap-exceptional-access-research), [[2]](https://www.lawfaremedia.org/article/how-congress-can-de-escalate-second-crypto-war-fund-research-and-broker-crypto-armistice)) and one [podcast](https://www.lawfaremedia.org/article/lawfare-podcast-mayank-varia-and-riana-pfefferkorn-apples-decision-scan-child-exploitation-material) on crypto policy.
-- [The Conversation](https://theconversation.com/apple-can-scan-your-photos-for-child-abuse-and-still-protect-your-privacy-if-the-company-keeps-its-promises-165785) piece explaining the since-abandoned [Apple PSI system](https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf).
+- [The Conversation](https://theconversation.com/apple-can-scan-your-photos-for-child-abuse-and-still-protect-your-privacy-if-the-company-keeps-its-promises-165785) piece describing the since-abandoned [Apple PSI system](https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf).
 - Two pieces ([[1]](https://www.nitrd.gov/rfi/2022/87-fr-35250/Canetti-Kaptchuk-Reyzin-Smith-Varia-PET-RFI-Response-2022.pdf), [[2]](https://www.nitrd.gov/rfi/2022/87-fr-35250/Archer-Varia-Smart-Malozemoff-Darais-Baum-Rosulek-Tromer-Near-PET-RFI-Response-2022.pdf)) in response to the U.S. government's [request for information](https://www.federalregister.gov/documents/2022/06/09/2022-12432/request-for-information-on-advancing-privacy-enhancing-technologies) about the future of privacy-enhancing technologies.
 
 Additionally, others have written (or interviewed me) about my research in the following venues.
@@ -152,7 +152,6 @@ I am grateful for the research support provided by the following organizations.
 - [Robert Bosch GmbH](https://carbynestack.io/)
 - [Zcash Foundation](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues/36)
 - BU Hariri Focused Research Programs: [Mobile Health Analysis](https://www.bu.edu/hic/research/focused-research-programs/continuous-analysis-of-mobile-health-data-among-medically-vulnerable-populations/), [Datacenter Energy Analytics](https://www.bu.edu/hic/privacy-preserving-energy-analytics-for-data-centers/)
-
 
 
 {% include_relative _includes/publications.md %}
