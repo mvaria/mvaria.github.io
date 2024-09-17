@@ -13,6 +13,16 @@ I work as an Associate Professor in the [Faculty of Computing & Data Sciences](h
 
 I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/64489) in 2010, and a [BSE from Duke University](https://math.duke.edu/undergraduate/graduation-with-distinction/senior-theses) in 2005.
 
+
+## News
+
+- 2024-25: Hosting [Dan Roche](https://roche.work/) as a visiting professor at BU
+- 2023: Received CDS [Distinguished Leadership award](https://www.bu.edu/cds-faculty/2023/05/18/cds-launches-faculty-staff-awards-program-three-honored-for-citizenship-distinguished-leadership/) and a Hariri Institute [Innovation Award](https://www.bu.edu/hic/2023/06/21/2023-hariri-institute-community-recognition-awards/)
+- 2022: Received 4 new grant awards (1 [DARPA](https://www.riversideresearch.org/insights/riverside-research-wins-darpa-harden-contract-award-to-improve-national-cybersecurity-efforts), 3 NSF)
+- 2021: Moved to CDS and [received tenure](https://www.bu.edu/cds-faculty/2022/01/07/mayank-varia-tenured-associate-professor/)!
+- 2020: General chair of [IEEE CSF 2020](https://www.ieee-security.org/TC/CSF2020/), and PI of a $4m [DARPA SIEVE award](https://www.bu.edu/hic/2020/04/02/bu-riscs-researchers-win-two-grants-from-darpa/)
+
+
 ## Teaching
 
 I have taught several courses at Boston University. Some have been co-taught with esteemed colleagues at BU: [Azer Bestavros](https://azer.bestavros.net/), [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Gabe Kaptchuk](https://www.cs.umd.edu/~kaptchuk/), [Andrei Lapets](https://lapets.io/), and [Andy Sellars](https://www.bu.edu/law/profile/andrew-sellars/).
@@ -24,6 +34,7 @@ I have taught several courses at Boston University. Some have been co-taught wit
 - **MPC at Scale** (CS 591): fall [2017](https://piazza.com/bu/fall2017/cs591v1/info), [2016](https://piazza.com/bu/fall2016/cs591b2/info)
 
 If you are a current BU student and would like to serve as a course assistant: please submit a [TF/TA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/tf-application/) if you are a graduate student, or a [CA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/course-assistants/) if you are an undergraduate student.
+
 
 ## Advising
 
@@ -59,14 +70,11 @@ I have co-authored papers with undergraduate students that have been published a
 
 ### Applying to work with me
 
-If you are a current or prospective student and would like to work with me, here's how to do so.
+Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/riscs/people/) and [theoretical computer science](https://www.bu.edu/tcs/), and it is recognized as a [Center of Academic Excellence](https://www.caecommunity.org/cae-map) in Cyber Defense and Research. If you are a current or prospective student and would like to work with me, please follow these instructions.
 
 - If you are a current BU undergraduate or MS student: register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUsec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email that clearly explains your research interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
 
 - If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about the program). I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
-
-Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/riscs/people/) and [theoretical computer science](https://www.bu.edu/tcs/), and it is recognized as a [Center of Academic Excellence](https://www.caecommunity.org/cae-map) in Cyber Defense and Research.
-Students who I advise have also worked with other faculty members like [Allison McDonald](https://amcdon.com/) and [Kira Goldner](https://www.kiragoldner.com/) in CDS; [Ari Trachtenberg](https://www.bu.edu/eng/profile/ari-trachtenberg/) in ECE; and [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Sharon Goldberg](https://www.cs.bu.edu/~goldbe/), [Leo Reyzin](https://www.cs.bu.edu/~reyzin/), [Adam Smith](https://cs-people.bu.edu/ads22/), and [Eran Tromer](https://cs-people.bu.edu/tromer/) in CS. In 2024-25, I'm also excited to host [Dan Roche](https://roche.work/) as a visiting professor at BU.
 
 
 ## Service
