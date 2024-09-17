@@ -27,11 +27,11 @@ I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/
 
 I have taught several courses at Boston University. Some have been co-taught with esteemed colleagues at BU: [Azer Bestavros](https://azer.bestavros.net/), [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Gabe Kaptchuk](https://www.cs.umd.edu/~kaptchuk/), [Andrei Lapets](https://lapets.io/), and [Andy Sellars](https://www.bu.edu/law/profile/andrew-sellars/).
 
-- **Foundations of Data Science II** (DS 121): [fall 2024](https://piazza.com/bu/fall2024/ds121a/info), [fall 2023](https://piazza.com/bu/fall2023/ds121/info), [fall 2022](https://piazza.com/bu/fall2022/ds121/info), [spring 2022](https://piazza.com/bu/spring2022/ds121/info)
-- **Crypto for Data Science** (DS 453 / 653): spring [2024](https://piazza.com/bu/spring2024/ds453653/info), [2023](https://piazza.com/bu/spring2023/ds453653/info)
-- **Law and Algorithms** (DS 657 / JD 673): spring [2024](http://www.lawalg.org/), [2023](https://cs-people.bu.edu/kaptchuk/teaching/ds457/sp23-classpage.html)
-- **Applied Cryptography** (CS 568): spring [2020](https://piazza.com/bu/spring2020/cs568/info), [2019](https://piazza.com/bu/spring2019/cs568/info), [2018](https://piazza.com/bu/spring2018/cs591v1/info), [2017](https://piazza.com/bu/spring2017/cs591v1/info), [2016](https://piazza.com/bu/spring2016/cascs591v1/info)
-- **MPC at Scale** (CS 591): fall [2017](https://piazza.com/bu/fall2017/cs591v1/info), [2016](https://piazza.com/bu/fall2016/cs591b2/info)
+- **Foundations of Data Science II** (DS 121): spring [2022](https://piazza.com/bu/spring2022/ds121/info) and fall [2022](https://piazza.com/bu/fall2022/ds121/info), [2023](https://piazza.com/bu/fall2023/ds121/info), [2024](https://piazza.com/bu/fall2024/ds121a/info)
+- **Crypto for Data Science** (DS 453 / 653): spring [2023](https://piazza.com/bu/spring2023/ds453653/info), [2024](https://piazza.com/bu/spring2024/ds453653/info)
+- **Law and Algorithms** (DS 657 / JD 673): spring [2023](https://cs-people.bu.edu/kaptchuk/teaching/ds457/sp23-classpage.html), [2024](http://www.lawalg.org/)
+- **Applied Cryptography** (CS 568): spring [2016](https://piazza.com/bu/spring2016/cascs591v1/info), [2017](https://piazza.com/bu/spring2017/cs591v1/info), [2018](https://piazza.com/bu/spring2018/cs591v1/info), [2019](https://piazza.com/bu/spring2019/cs568/info), [2020](https://piazza.com/bu/spring2020/cs568/info)
+- **MPC at Scale** (CS 591): fall [2016](https://piazza.com/bu/fall2016/cs591b2/info), [2017](https://piazza.com/bu/fall2017/cs591v1/info)
 
 If you are a current BU student and would like to serve as a course assistant: please submit a [TF/TA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/tf-application/) if you are a graduate student, or a [CA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/course-assistants/) if you are an undergraduate student.
 

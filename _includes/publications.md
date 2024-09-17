@@ -1,6 +1,6 @@
 ### Selected Publications
 
-The remainder of this page describes some major themes of my research and links to selected peer-reviewed publications. You can find a list of all of my publications at <a href="https://dblp.org/pid/59/6288.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=lneZSfIAAAAJ">Google Scholar</a>.
+The remainder of this page describes some major themes of my research and links to selected peer-reviewed publications. You can find a list of all of my publications at <a href="https://dblp.org/pid/59/6288.html"><i class="ai ai-dblp"></i> DBLP</a> and <a href="https://scholar.google.com/citations?user=lneZSfIAAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a>.
 
 
 ### <i class="fa fa-cloud"></i> Data Analysis for Social Good
