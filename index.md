@@ -6,12 +6,12 @@ layout: homepage
 ## About Me
 
 
-My research interests span theoretical and applied cryptography and its applications throughout and beyond computing & data sciences. My research often involves one or more of the following:
+My research interests span theoretical and applied cryptography and its applications throughout and beyond computing & data sciences. In my research, I often:
 - Design and develop crypto algorithms with provable, composable security guarantees
 - Deploy privacy-respecting systems for data scientists to work with data they cannot see
 - Examine the social aspects of cryptography, including its impacts on law and public policy
 
-I work as an Associate Professor in the [Faculty of Computing & Data Sciences](https://www.bu.edu/cds-faculty/) at [Boston University](https://www.bu.edu/). I serve as the director of the [CDS Hub for Civic Tech Impact](https://www.bu.edu/cds-faculty/research-impact/civic-tech/), co-director of [BU's Center for Reliable Information Systems & Cyber Security](https://www.bu.edu/riscs/), member of the [BU Security Group](https://www.bu.edu/cs/research-groups/security/busec/), and member of the [Cyber Security, Law, and Society Alliance](https://www.bu.edu/hic/centers-initiatives-labs/cyber-alliance/). I am also an affiliate of BU's [Computer Science department](https://www.bu.edu/cs/people/faculty/).
+I work as an Associate Professor in the [Faculty of Computing & Data Sciences](https://www.bu.edu/cds-faculty/) (CDS) at [Boston University](https://www.bu.edu/). I serve as director of the [CDS Hub for Civic Tech Impact](https://www.bu.edu/cds-faculty/research-impact/civic-tech/), co-director of [BU's Center for Reliable Information Systems & Cyber Security](https://www.bu.edu/riscs/) (RISCS), member of the [BU Security Group](https://www.bu.edu/cs/research-groups/security/busec/), and member of the [Cyber Security, Law, and Society Alliance](https://www.bu.edu/hic/centers-initiatives-labs/cyber-alliance/). I am also an affiliate of BU's [Computer Science department](https://www.bu.edu/cs/people/faculty/). My office is located on the 13th floor of BU's new [jenga](https://www.bu.edu/cds-faculty/explore/bu-center-for-computing-data-sciences/) [building](https://www.bu.edu/sustainability/projects/center-for-computing-data-sciences/).
 
 I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/64489) in 2010, and a [BSE from Duke University](https://math.duke.edu/undergraduate/graduation-with-distinction/senior-theses) in 2005.
 
@@ -19,16 +19,21 @@ I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/
 ### News
 
 - 2024-25: Hosting [Dan Roche](https://roche.work/) as a visiting professor at BU
-- 2023: Received CDS [Distinguished Leadership award](https://www.bu.edu/cds-faculty/2023/05/18/cds-launches-faculty-staff-awards-program-three-honored-for-citizenship-distinguished-leadership/) and a Hariri Institute [Innovation Award](https://www.bu.edu/hic/2023/06/21/2023-hariri-institute-community-recognition-awards/)
-- 2022: Received 4 new grant awards (1 [DARPA](https://www.riversideresearch.org/insights/riverside-research-wins-darpa-harden-contract-award-to-improve-national-cybersecurity-efforts), 3 NSF)
-- 2021: Moved to CDS and [received tenure](https://www.bu.edu/cds-faculty/2022/01/07/mayank-varia-tenured-associate-professor/)!
-- 2020: General chair of [IEEE CSF 2020](https://www.ieee-security.org/TC/CSF2020/), and PI of a $4m [DARPA SIEVE award](https://www.bu.edu/hic/2020/04/02/bu-riscs-researchers-win-two-grants-from-darpa/)
+- 2023: Received CDS [Distinguished Leadership Award](https://www.bu.edu/cds-faculty/2023/05/18/cds-launches-faculty-staff-awards-program-three-honored-for-citizenship-distinguished-leadership/) and a Hariri Institute [Innovation Award](https://www.bu.edu/hic/2023/06/21/2023-hariri-institute-community-recognition-awards/)
+- 2022: Hosted [Civic Voices](https://www.bu.edu/cds-faculty/2022/10/05/civic-voices-ecash-act/) event to discuss tech policy with two U.S. Representatives
+- 2021: Moved to BU [CDS](https://www.bu.edu/cds-faculty/) as an Associate Professor, and [received tenure](https://www.bu.edu/cds-faculty/2022/01/07/mayank-varia-tenured-associate-professor/)!
+- 2020: General chair of [IEEE CSF 2020](https://www.ieee-security.org/TC/CSF2020/), and PI of a $4M [DARPA SIEVE grant](https://www.bu.edu/hic/2020/04/02/bu-riscs-researchers-win-two-grants-from-darpa/)
+- 2019: Featured in BU's [Annual Report](https://www.bu.edu/ar/2018/ethics-v-technology.html) and a [BU Research video](https://www.youtube.com/watch?v=l25jcolQW6Q)
+- 2018: Moved to BU [Computer Science](https://www.bu.edu/cs/) as a Research Associate Professor
+- 2017: Received two [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1718135) [grants](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1739000) for $1.5M to design, develop, and apply MPC in practice
+- 2016: Created [two](https://piazza.com/bu/spring2016/cascs591v1/info) [courses](https://piazza.com/bu/fall2016/cs591b2/info), appointed as [BU RISCS](https://www.bu.edu/riscs/) co-director and MIT research affiliate
+- 2015: Joined BU's [Hariri Institute](https://www.bu.edu/hic/) as Director of Research for the $10M [MACS](https://www.bu.edu/macs/) Frontier grant
 
 
 <div id="teaching"></div>
 ## Teaching
 
-I have taught several courses at Boston University. Some have been co-taught with esteemed colleagues at BU: [Azer Bestavros](https://azer.bestavros.net/), [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Gabe Kaptchuk](https://www.cs.umd.edu/~kaptchuk/), [Andrei Lapets](https://lapets.io/), and [Andy Sellars](https://www.bu.edu/law/profile/andrew-sellars/).
+I have taught several courses at Boston University. Some have been co-taught with my colleagues: [Azer Bestavros](https://azer.bestavros.net/), [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Gabe Kaptchuk](https://www.cs.umd.edu/~kaptchuk/), [Andrei Lapets](https://lapets.io/), and [Andy Sellars](https://www.bu.edu/law/profile/andrew-sellars/).
 
 - **Foundations of Data Science II** (DS 121): spring [2022](https://piazza.com/bu/spring2022/ds121/info) and fall [2022](https://piazza.com/bu/fall2022/ds121/info), [2023](https://piazza.com/bu/fall2023/ds121/info), [2024](https://piazza.com/bu/fall2024/ds121a/info)
 - **Crypto for Data Science** (DS 453 / 653): spring [2023](https://piazza.com/bu/spring2023/ds453653/info), [2024](https://piazza.com/bu/spring2024/ds453653/info)
@@ -55,28 +60,30 @@ I am fortunate to work with an excellent group of graduate and undergraduate stu
 - [Julia Guskind](https://julia-guskind.github.io/) (co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/))
 - [Julie Ha](https://www.hajulie.com/)
 - [Ryan Little](https://ryanlittle.net/)
-- [Rene Reyes Bardales](https://ardee-reyes.github.io/) (co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/))
+- [René Reyes](https://ardee-reyes.github.io/) (co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/))
 
 ### PhD alums
 
-- [Sarah Scheffler](https://www.sarahscheffler.net/) (PhD, 2021). Now an assistant professor at Carnegie Mellon University.
-- [Rawane Issa](https://www.ra1issa.com/) (PhD, 2022). Now a researcher at [Galois](https://galois.com/).
-- [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (PhD, 2024). On the job market!
+- [Sarah Scheffler](https://www.sarahscheffler.net/) (2021). Now an assistant professor at Carnegie Mellon University.
+- [Rawane Issa](https://www.ra1issa.com/) (2022). Now a researcher at Galois.
+- [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (2024). On the job market!
 
 ### BS alums
 
-I have co-authored papers with undergraduate students that have been published at [CANS 16](https://open.bu.edu/handle/2144/20634), [CSF 17](https://eprint.iacr.org/2017/1256.pdf), [FC 17](https://eprint.iacr.org/2016/1006.pdf), [SecDev 19](https://eprint.iacr.org/2018/602.pdf), [SOUPS 19](https://www.usenix.org/system/files/soups2019-qin.pdf), [STAST 19](https://link.springer.com/chapter/10.1007/978-3-030-55958-8_10), [ACNS 21](https://eprint.iacr.org/2021/478.pdf), [USENIX Security 23](https://www.usenix.org/conference/usenixsecurity23/presentation/faisal), [SIGMOD 24](https://cs-people.bu.edu/liagos/material/qs-sigmod24.pdf), and the [Journal of Young Investigators](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10321550/). Some of the students I've supervised have gone on to pursue a PhD.
+I have co-authored papers with undergraduate students that have been published at [CANS 2016](https://open.bu.edu/handle/2144/20634), [CSF 2017](https://eprint.iacr.org/2017/1256.pdf), [FC 2017](https://eprint.iacr.org/2016/1006.pdf), [SecDev 2019](https://eprint.iacr.org/2018/602.pdf), [SOUPS 2019](https://www.usenix.org/system/files/soups2019-qin.pdf), [STAST 2019](https://link.springer.com/chapter/10.1007/978-3-030-55958-8_10), [ACNS 2021](https://eprint.iacr.org/2021/478.pdf), [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/presentation/faisal), [SIGMOD 2024](https://cs-people.bu.edu/liagos/material/qs-sigmod24.pdf), and the [Journal of Young Investigators](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10321550/).
 
-- Kyle Hogan (BS, 2017). Now a PhD student at MIT.
-- Ziling Yang (BS, 2021). Now a PhD student at UIUC.
-- Xinyuan Zhang (BS, 2021). Now a PhD student at Duke.
-- Julie Ha (BS, 2022). Now a PhD student at BU.
+Some of the students I've supervised have gone on to pursue a PhD.
+
+- Kyle Hogan (2017). Now a PhD student at MIT.
+- Ziling Yang (2021). Now a PhD student at UIUC.
+- Xinyuan Zhang (2021). Now a PhD student at Duke.
+- Julie Ha (2022). Now a PhD student at BU.
 
 ### Applying to work with me
 
 Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/riscs/people/) and [theoretical computer science](https://www.bu.edu/tcs/), and it is recognized as a [Center of Academic Excellence](https://www.caecommunity.org/cae-map) in Cyber Defense and Research. If you are a current or prospective student and would like to work with me, please follow these instructions.
 
-- If you are a current BU undergraduate or MS student: register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUsec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email that clearly explains your research interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
+- If you are a current BU undergraduate or MS student: register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUSec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email describing your interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
 
 - If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about the program). I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
 
@@ -92,7 +99,7 @@ I have written a few technology policy articles that are publicly available.
 - [The Conversation](https://theconversation.com/apple-can-scan-your-photos-for-child-abuse-and-still-protect-your-privacy-if-the-company-keeps-its-promises-165785) piece describing the since-abandoned [Apple PSI system](https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf).
 - Two responses ([1](https://www.nitrd.gov/rfi/2022/87-fr-35250/Canetti-Kaptchuk-Reyzin-Smith-Varia-PET-RFI-Response-2022.pdf), [2](https://www.nitrd.gov/rfi/2022/87-fr-35250/Archer-Varia-Smart-Malozemoff-Darais-Baum-Rosulek-Tromer-Near-PET-RFI-Response-2022.pdf)) to the U.S. government's [request for information](https://www.federalregister.gov/documents/2022/06/09/2022-12432/request-for-information-on-advancing-privacy-enhancing-technologies) about the future of privacy-enhancing technologies.
 
-Additionally, others have written news reports, or interviewed me, about my research.
+Additionally, others have written news articles and/or interviewed me about my research.
 
 - Popular press: [The Boston Globe](https://epaper.bostonglobe.com/infinity/article_popover_share.aspx?guid=3bc24f8e-6f5b-46e4-82e1-62205f31f21f), [BU Daily Free Press](https://dailyfreepress.com/2023/10/25/bu-researchers-receive-550000-grant-propose-holistic-approach-to-misinformation/), [CNET](https://www.cnet.com/tech/mobile/coronavirus-app-could-trace-your-contacts-without-sacrificing-your-privacy/), [Deseret News](https://www.deseret.com/indepth/2020/4/19/21220856/google-apple-contact-tracing-bluetooth-opt-in-privacy-secure-data-sharing-covid-19-coronavirus-test), [Engadget](https://www.engadget.com/automatic-covid-19-contact-tracing-mit-192535783.html), [The Hill](https://thehill.com/opinion/cybersecurity/385549-tech-titan-efforts-to-stop-terrorists-from-going-dark-are-so-far/), [The Register](https://www.theregister.com/2016/10/28/researchers_tag_new_brace_of_bugs_in_ntp_but_theyre_fixable/), [TechCrunch](https://techcrunch.com/2020/04/09/mit-develops-privacy-preserving-covid-19-contact-tracing-inspired-by-apples-find-my-feature/), [The Washington Post](https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/04/09/the-technology-202-mit-researchers-unveil-effort-to-trace-spread-of-the-coronavirus/5e8e3282602ff10d49ae096a/), [WGBH News](https://www.wgbh.org/news/local/2020-04-10/coming-soon-tracking-the-spread-of-covid-19-with-smartphones), and ZDNet ([1](https://www.zdnet.com/article/researchers-invent-method-to-track-coronavirus-through-smartphones-while-protecting-our-privacy/), [2](https://www.zdnet.com/article/cryptographic-crumpling-the-encryption-middle-ground-solution-for-government-surveillance/)).
 - University press:
@@ -103,7 +110,7 @@ BU's The Brink ([1](https://www.bu.edu/articles/2022/traceable-end-to-end-encryp
 
 ### Videos
 
-Here are a few of my invited talks at research conferences and seminars. All of them are available to watch on YouTube.
+Here are a few of my invited conference and seminar talks, which are available to watch on YouTube.
 
 - [EAAMO 2023](https://www.youtube.com/watch?v=kqymlLAjytE) - Cryptographically Protected Data Science For All
 - [UN Webinar, Feb 2023](https://www.youtube.com/watch?v=leiigEA2dAI&t=3630s) - Legal & Regulatory Issues Arising from the Use of PETs
@@ -156,7 +163,7 @@ Here are a few of my invited talks at research conferences and seminars. All of 
 I am grateful for the research support provided by the following organizations.
 
 - National Science Foundation: Grants [1414119](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1414119), [1718135](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1718135), [1739000](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1739000), [1801564](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1801564), [1915763](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915763), [1931714](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931714), [1955579](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955579), [2209194](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209194), [2217770](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217770), and [2228610](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2228610)
-- DARPA: [HARDEN](https://www.darpa.mil/program/hardening-development-toolchains-against-emergent-execution-engines) (Contract N66001-22-C-4020), [SIEVE](https://www.darpa.mil/program/securing-information-for-encrypted-verification-and-evaluation) (Agreement HR00112020021), and [Brandeis](https://www.darpa.mil/program/brandeis) (Contract N66001-15-C-407)
+- DARPA: [HARDEN](https://www.darpa.mil/program/hardening-development-toolchains-against-emergent-execution-engines) ([Contract N66001-22-C-4020](https://www.riversideresearch.org/insights/riverside-research-wins-darpa-harden-contract-award-to-improve-national-cybersecurity-efforts)), [SIEVE](https://www.darpa.mil/program/securing-information-for-encrypted-verification-and-evaluation) ([Agreement HR00112020021](https://www.bu.edu/hic/2020/04/02/bu-riscs-researchers-win-two-grants-from-darpa/)), and [Brandeis](https://www.darpa.mil/program/brandeis) (Contract N66001-15-C-407)
 - [Honda Research Institute Europe](https://www.honda-ri.de/)
 - [Massachusetts Technology Collaborative](https://masstech.org/)
 - [Red Hat Collaboratory](https://www.bu.edu/rhcollab/)
