@@ -20,4 +20,4 @@ gem "github-pages", group: :jekyll_plugins
 gem "webrick", "~> 1.8"
 
 gem "rexml", ">= 3.3.6"
-
+gem "nokogiri", ">= 1.16.5"
