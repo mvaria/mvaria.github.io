@@ -65,6 +65,12 @@
         <br>
         <br>
         <div class="social-icons">
+        {% if site.dblp_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.dblp_link }}">
+          <i class="ai ai-dblp" style="font-size:1.3rem;"></i>
+        </a>
+        {% endif %}
+
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
           <i class="ai ai-google-scholar" style="font-size:1.3rem"></i>
@@ -89,12 +95,6 @@
         </a>
         {% endif %}
 
-        {% if site.dblp_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.dblp_link }}">
-          <i class="ai ai-dblp" style="font-size:1.3rem;"></i>
-        </a>
-        {% endif %}
-
         {% if site.linkedin %}
         <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
           <i class="fab fa-linkedin"></i>
@@ -109,6 +109,16 @@
         </div>
         <br>
 
+        <position style="font-size:1.10rem;">Navigation</position>
+        <br>
+        <a href="#about">About</a> &#8226; 
+        <a href="#teaching">Teaching</a> &#8226; 
+        <a href="#advising">Advising</a>
+        <br>
+        <a href="#media">Media</a> &#8226; 
+        <a href="#service">Service</a> &#8226; 
+        <a href="#research">Research</a>
+        <br>
       </header>
       <section>
 

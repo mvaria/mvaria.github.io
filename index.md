@@ -2,7 +2,9 @@
 layout: homepage
 ---
 
+<div id="about"></div>
 ## About Me
+
 
 My research interests span theoretical and applied cryptography and its applications throughout and beyond computing & data sciences. My research often involves one or more of the following:
 - Design and develop crypto algorithms with provable, composable security guarantees
@@ -14,7 +16,7 @@ I work as an Associate Professor in the [Faculty of Computing & Data Sciences](h
 I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/64489) in 2010, and a [BSE from Duke University](https://math.duke.edu/undergraduate/graduation-with-distinction/senior-theses) in 2005.
 
 
-## News
+### News
 
 - 2024-25: Hosting [Dan Roche](https://roche.work/) as a visiting professor at BU
 - 2023: Received CDS [Distinguished Leadership award](https://www.bu.edu/cds-faculty/2023/05/18/cds-launches-faculty-staff-awards-program-three-honored-for-citizenship-distinguished-leadership/) and a Hariri Institute [Innovation Award](https://www.bu.edu/hic/2023/06/21/2023-hariri-institute-community-recognition-awards/)
@@ -23,6 +25,7 @@ I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/
 - 2020: General chair of [IEEE CSF 2020](https://www.ieee-security.org/TC/CSF2020/), and PI of a $4m [DARPA SIEVE award](https://www.bu.edu/hic/2020/04/02/bu-riscs-researchers-win-two-grants-from-darpa/)
 
 
+<div id="teaching"></div>
 ## Teaching
 
 I have taught several courses at Boston University. Some have been co-taught with esteemed colleagues at BU: [Azer Bestavros](https://azer.bestavros.net/), [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Gabe Kaptchuk](https://www.cs.umd.edu/~kaptchuk/), [Andrei Lapets](https://lapets.io/), and [Andy Sellars](https://www.bu.edu/law/profile/andrew-sellars/).
@@ -36,6 +39,7 @@ I have taught several courses at Boston University. Some have been co-taught wit
 If you are a current BU student and would like to serve as a course assistant: please submit a [TF/TA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/tf-application/) if you are a graduate student, or a [CA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/course-assistants/) if you are an undergraduate student.
 
 
+<div id="advising"></div>
 ## Advising
 
 I am fortunate to work with an excellent group of graduate and undergraduate students.
@@ -77,6 +81,40 @@ Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/
 - If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about the program). I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
 
 
+<div id="media"></div>
+## Media
+
+### Articles
+
+I have written a few technology policy articles that are publicly available.
+
+- Lawfare: two articles ([1](https://www.lawfaremedia.org/article/roadmap-exceptional-access-research), [2](https://www.lawfaremedia.org/article/how-congress-can-de-escalate-second-crypto-war-fund-research-and-broker-crypto-armistice)) and one [podcast](https://www.lawfaremedia.org/article/lawfare-podcast-mayank-varia-and-riana-pfefferkorn-apples-decision-scan-child-exploitation-material) on crypto policy.
+- [The Conversation](https://theconversation.com/apple-can-scan-your-photos-for-child-abuse-and-still-protect-your-privacy-if-the-company-keeps-its-promises-165785) piece describing the since-abandoned [Apple PSI system](https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf).
+- Two responses ([1](https://www.nitrd.gov/rfi/2022/87-fr-35250/Canetti-Kaptchuk-Reyzin-Smith-Varia-PET-RFI-Response-2022.pdf), [2](https://www.nitrd.gov/rfi/2022/87-fr-35250/Archer-Varia-Smart-Malozemoff-Darais-Baum-Rosulek-Tromer-Near-PET-RFI-Response-2022.pdf)) to the U.S. government's [request for information](https://www.federalregister.gov/documents/2022/06/09/2022-12432/request-for-information-on-advancing-privacy-enhancing-technologies) about the future of privacy-enhancing technologies.
+
+Additionally, others have written news reports, or interviewed me, about my research.
+
+- Popular press: [The Boston Globe](https://epaper.bostonglobe.com/infinity/article_popover_share.aspx?guid=3bc24f8e-6f5b-46e4-82e1-62205f31f21f), [BU Daily Free Press](https://dailyfreepress.com/2023/10/25/bu-researchers-receive-550000-grant-propose-holistic-approach-to-misinformation/), [CNET](https://www.cnet.com/tech/mobile/coronavirus-app-could-trace-your-contacts-without-sacrificing-your-privacy/), [Deseret News](https://www.deseret.com/indepth/2020/4/19/21220856/google-apple-contact-tracing-bluetooth-opt-in-privacy-secure-data-sharing-covid-19-coronavirus-test), [Engadget](https://www.engadget.com/automatic-covid-19-contact-tracing-mit-192535783.html), [The Hill](https://thehill.com/opinion/cybersecurity/385549-tech-titan-efforts-to-stop-terrorists-from-going-dark-are-so-far/), [The Register](https://www.theregister.com/2016/10/28/researchers_tag_new_brace_of_bugs_in_ntp_but_theyre_fixable/), [TechCrunch](https://techcrunch.com/2020/04/09/mit-develops-privacy-preserving-covid-19-contact-tracing-inspired-by-apples-find-my-feature/), [The Washington Post](https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/04/09/the-technology-202-mit-researchers-unveil-effort-to-trace-spread-of-the-coronavirus/5e8e3282602ff10d49ae096a/), [WGBH News](https://www.wgbh.org/news/local/2020-04-10/coming-soon-tracking-the-spread-of-covid-19-with-smartphones), and ZDNet ([1](https://www.zdnet.com/article/researchers-invent-method-to-track-coronavirus-through-smartphones-while-protecting-our-privacy/), [2](https://www.zdnet.com/article/cryptographic-crumpling-the-encryption-middle-ground-solution-for-government-surveillance/)).
+- University press:
+[BU Annual Report](https://www.bu.edu/ar/2018/ethics-v-technology.html),
+BU's The Brink ([1](https://www.bu.edu/articles/2022/traceable-end-to-end-encryption-whatsapp), [2](https://www.bu.edu/articles/2020/contact-tracing-app-warns-of-covid-19-exposure-while-protecting-privacy), [3](https://www.bu.edu/articles/2020/after-tik-tok-wechat-bans-go-into-effect-will-it-be-a-crime-to-use-apps-in-us), [4](https://www.bu.edu/articles/2019/secure-multiparty-computation/)), and MIT News ([1](https://news.mit.edu/2020/bluetooth-covid-19-contact-tracing-0409), [2](https://news.mit.edu/2014/cryptographic-schemes-security-guarantees-1030)).
+- Technology blogs: [CCC blog](https://www.cccblog.org/2020/04/22/automated-contact-tracing-for-fighting-the-coronavirus-a-short-tem-effort-with-long-term-repercussions), [Millenium Alliance](https://mill-all.com/digital-diary/new-technology-to-help-fight-against-the-global-pandemic), [The Morning Paper](https://blog.acolyer.org/2017/06/26/sok-cryptographically-protected-database-search/), and [TrustedCI blog](https://blog.trustedci.org/2020/01/transition-to-practice-success-story.html).
+
+
+### Videos
+
+Here are a few of my invited talks at research conferences and seminars. All of them are available to watch on YouTube.
+
+- [EAAMO 2023](https://www.youtube.com/watch?v=kqymlLAjytE) - Cryptographically Protected Data Science For All
+- [UN Webinar, Feb 2023](https://www.youtube.com/watch?v=leiigEA2dAI&t=3630s) - Legal & Regulatory Issues Arising from the Use of PETs
+- [Columbia Data for Good Seminar, March 2022](https://www.youtube.com/watch?v=TCT-q5UbTjM) - Data Science Without Data
+- [C3.ai Seminar, Aug 2021](https://www.youtube.com/watch?v=rR9AenqGxa0) - Cryptography and the Democratizing Power of Learning Nothing
+- [DIMACS 2019](https://www.youtube.com/watch?v=PJxZH2pmxLk) - Development of Usable, Scalable MPC
+- [DP-MPC 2018](https://web.archive.org/web/20200224100541/http://www.bu.edu/hic/dpmpc-2018/) - A Survey of MPC Offerings
+- [Enigma 2018](https://www.youtube.com/watch?v=d9rMokeYx9I) - Cryptographically Secure Data Analysis for Social Good
+
+
+<div id="service"></div>
 ## Service
 
 ### Public service
@@ -108,37 +146,10 @@ Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/
 - CANS: [2017](https://crypto.ie.cuhk.edu.hk/cans17/)
 
 
+<div id="research"></div>
 ## Research
 
-### Research in the Media
-
-I have written a few technology policy pieces that are publicly available.
-
-- Lawfare: two articles ([1](https://www.lawfaremedia.org/article/roadmap-exceptional-access-research), [2](https://www.lawfaremedia.org/article/how-congress-can-de-escalate-second-crypto-war-fund-research-and-broker-crypto-armistice)) and one [podcast](https://www.lawfaremedia.org/article/lawfare-podcast-mayank-varia-and-riana-pfefferkorn-apples-decision-scan-child-exploitation-material) on crypto policy.
-- [The Conversation](https://theconversation.com/apple-can-scan-your-photos-for-child-abuse-and-still-protect-your-privacy-if-the-company-keeps-its-promises-165785) piece describing the since-abandoned [Apple PSI system](https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf).
-- Two responses ([1](https://www.nitrd.gov/rfi/2022/87-fr-35250/Canetti-Kaptchuk-Reyzin-Smith-Varia-PET-RFI-Response-2022.pdf), [2](https://www.nitrd.gov/rfi/2022/87-fr-35250/Archer-Varia-Smart-Malozemoff-Darais-Baum-Rosulek-Tromer-Near-PET-RFI-Response-2022.pdf)) to the U.S. government's [request for information](https://www.federalregister.gov/documents/2022/06/09/2022-12432/request-for-information-on-advancing-privacy-enhancing-technologies) about the future of privacy-enhancing technologies.
-
-Additionally, others have written (or interviewed me) about my research in the following venues.
-
-- Popular press: [The Boston Globe](https://epaper.bostonglobe.com/infinity/article_popover_share.aspx?guid=3bc24f8e-6f5b-46e4-82e1-62205f31f21f), [BU Daily Free Press](https://dailyfreepress.com/2023/10/25/bu-researchers-receive-550000-grant-propose-holistic-approach-to-misinformation/), [CNET](https://www.cnet.com/tech/mobile/coronavirus-app-could-trace-your-contacts-without-sacrificing-your-privacy/), [Deseret News](https://www.deseret.com/indepth/2020/4/19/21220856/google-apple-contact-tracing-bluetooth-opt-in-privacy-secure-data-sharing-covid-19-coronavirus-test), [Engadget](https://www.engadget.com/automatic-covid-19-contact-tracing-mit-192535783.html), [The Hill](https://thehill.com/opinion/cybersecurity/385549-tech-titan-efforts-to-stop-terrorists-from-going-dark-are-so-far/), [The Register](https://www.theregister.com/2016/10/28/researchers_tag_new_brace_of_bugs_in_ntp_but_theyre_fixable/), [TechCrunch](https://techcrunch.com/2020/04/09/mit-develops-privacy-preserving-covid-19-contact-tracing-inspired-by-apples-find-my-feature/), [The Washington Post](https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/04/09/the-technology-202-mit-researchers-unveil-effort-to-trace-spread-of-the-coronavirus/5e8e3282602ff10d49ae096a/), [WGBH News](https://www.wgbh.org/news/local/2020-04-10/coming-soon-tracking-the-spread-of-covid-19-with-smartphones), and ZDNet ([1](https://www.zdnet.com/article/researchers-invent-method-to-track-coronavirus-through-smartphones-while-protecting-our-privacy/), [2](https://www.zdnet.com/article/cryptographic-crumpling-the-encryption-middle-ground-solution-for-government-surveillance/)).
-- University press:
-[BU Annual Report](https://www.bu.edu/ar/2018/ethics-v-technology.html),
-BU's The Brink ([1](https://www.bu.edu/articles/2022/traceable-end-to-end-encryption-whatsapp), [2](https://www.bu.edu/articles/2020/contact-tracing-app-warns-of-covid-19-exposure-while-protecting-privacy), [3](https://www.bu.edu/articles/2020/after-tik-tok-wechat-bans-go-into-effect-will-it-be-a-crime-to-use-apps-in-us), [4](https://www.bu.edu/articles/2019/secure-multiparty-computation/)), and MIT News ([1](https://news.mit.edu/2020/bluetooth-covid-19-contact-tracing-0409), [2](https://news.mit.edu/2014/cryptographic-schemes-security-guarantees-1030)).
-- Technology blogs: [CCC blog](https://www.cccblog.org/2020/04/22/automated-contact-tracing-for-fighting-the-coronavirus-a-short-tem-effort-with-long-term-repercussions), [Millenium Alliance](https://mill-all.com/digital-diary/new-technology-to-help-fight-against-the-global-pandemic), [The Morning Paper](https://blog.acolyer.org/2017/06/26/sok-cryptographically-protected-database-search/), and [TrustedCI blog](https://blog.trustedci.org/2020/01/transition-to-practice-success-story.html).
-
-
-### Invited Talks
-
-Here are a few of my talks at research conferences and seminars. All of them are available to watch on YouTube.
-
-- [EAAMO 2023](https://www.youtube.com/watch?v=kqymlLAjytE) - Cryptographically Protected Data Science For All
-- [UN Webinar, Feb 2023](https://www.youtube.com/watch?v=leiigEA2dAI&t=3630s) - Legal & Regulatory Issues Arising from the Use of PETs
-- [Columbia Data for Good Seminar, March 2022](https://www.youtube.com/watch?v=TCT-q5UbTjM) - Data Science Without Data
-- [C3.ai Seminar, Aug 2021](https://www.youtube.com/watch?v=rR9AenqGxa0) - Cryptography and the Democratizing Power of Learning Nothing
-- [DIMACS 2019](https://www.youtube.com/watch?v=PJxZH2pmxLk) - Development of Usable, Scalable MPC
-- [DP-MPC 2018](https://web.archive.org/web/20200224100541/http://www.bu.edu/hic/dpmpc-2018/) - A Survey of MPC Offerings
-- [Enigma 2018](https://www.youtube.com/watch?v=d9rMokeYx9I) - Cryptographically Secure Data Analysis for Social Good
-
+{% include_relative _includes/publications.md %}
 
 ### Grant Awards
 
@@ -152,6 +163,3 @@ I am grateful for the research support provided by the following organizations.
 - [Robert Bosch GmbH](https://carbynestack.io/)
 - [Zcash Foundation](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues/36)
 - BU Hariri Focused Research Programs: [Mobile Health Analysis](https://www.bu.edu/hic/research/focused-research-programs/continuous-analysis-of-mobile-health-data-among-medically-vulnerable-populations/), [Datacenter Energy Analytics](https://www.bu.edu/hic/privacy-preserving-energy-analytics-for-data-centers/)
-
-
-{% include_relative _includes/publications.md %}
