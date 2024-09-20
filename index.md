@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-My research interests span theoretical and applied cryptography and its applications throughout and beyond computing & data sciences. My work often involves one or more of the following:
-- Design and develop crypto algorithms with provable, composable security guarantees,
-- Deploy privacy-respecting systems for data scientists to work with data they cannot see, or
-- Examine the social aspects of cryptography, including its impacts on law and public policy.
+My research interests span theoretical and applied cryptography and its applications throughout and beyond computing & data sciences. My research often involves one or more of the following:
+- Design and develop crypto algorithms with provable, composable security guarantees
+- Deploy privacy-respecting systems for data scientists to work with data they cannot see
+- Examine the social aspects of cryptography, including its impacts on law and public policy
 
 I work as an Associate Professor in the [Faculty of Computing & Data Sciences](https://www.bu.edu/cds-faculty/) at [Boston University](https://www.bu.edu/). I serve as the director of the [CDS Hub for Civic Tech Impact](https://www.bu.edu/cds-faculty/research-impact/civic-tech/), co-director of [BU's Center for Reliable Information Systems & Cyber Security](https://www.bu.edu/riscs/), member of the [BU Security Group](https://www.bu.edu/cs/research-groups/security/busec/), and member of the [Cyber Security, Law, and Society Alliance](https://www.bu.edu/hic/centers-initiatives-labs/cyber-alliance/). I am also an affiliate of BU's [Computer Science department](https://www.bu.edu/cs/people/faculty/).
 
@@ -116,7 +116,7 @@ I have written a few technology policy pieces that are publicly available.
 
 - Lawfare: two articles ([1](https://www.lawfaremedia.org/article/roadmap-exceptional-access-research), [2](https://www.lawfaremedia.org/article/how-congress-can-de-escalate-second-crypto-war-fund-research-and-broker-crypto-armistice)) and one [podcast](https://www.lawfaremedia.org/article/lawfare-podcast-mayank-varia-and-riana-pfefferkorn-apples-decision-scan-child-exploitation-material) on crypto policy.
 - [The Conversation](https://theconversation.com/apple-can-scan-your-photos-for-child-abuse-and-still-protect-your-privacy-if-the-company-keeps-its-promises-165785) piece describing the since-abandoned [Apple PSI system](https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf).
-- Two reports ([1](https://www.nitrd.gov/rfi/2022/87-fr-35250/Canetti-Kaptchuk-Reyzin-Smith-Varia-PET-RFI-Response-2022.pdf), [2](https://www.nitrd.gov/rfi/2022/87-fr-35250/Archer-Varia-Smart-Malozemoff-Darais-Baum-Rosulek-Tromer-Near-PET-RFI-Response-2022.pdf)) in response to the U.S. government's [request for information](https://www.federalregister.gov/documents/2022/06/09/2022-12432/request-for-information-on-advancing-privacy-enhancing-technologies) about the future of privacy-enhancing technologies.
+- Two responses ([1](https://www.nitrd.gov/rfi/2022/87-fr-35250/Canetti-Kaptchuk-Reyzin-Smith-Varia-PET-RFI-Response-2022.pdf), [2](https://www.nitrd.gov/rfi/2022/87-fr-35250/Archer-Varia-Smart-Malozemoff-Darais-Baum-Rosulek-Tromer-Near-PET-RFI-Response-2022.pdf)) to the U.S. government's [request for information](https://www.federalregister.gov/documents/2022/06/09/2022-12432/request-for-information-on-advancing-privacy-enhancing-technologies) about the future of privacy-enhancing technologies.
 
 Additionally, others have written (or interviewed me) about my research in the following venues.
 
