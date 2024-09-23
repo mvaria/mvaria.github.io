@@ -62,6 +62,10 @@ I am fortunate to work with an excellent group of graduate and undergraduate stu
 - [Ryan Little](https://ryanlittle.net/)
 - [René Reyes](https://ardee-reyes.github.io/) (co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/))
 
+### Current BS student
+
+- Annie (Ting Chien) Huang
+
 ### PhD alums
 
 - [Sarah Scheffler](https://www.sarahscheffler.net/) (2021). Now an assistant professor at Carnegie Mellon University.
