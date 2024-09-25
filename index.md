@@ -146,8 +146,9 @@ Here are a few of my invited conference and seminar talks, which are available t
 
 ### Program committees
 
-- USENIX Security: [2021](https://www.usenix.org/conference/usenixsecurity21), [2022](https://www.usenix.org/conference/usenixsecurity22), [2023](https://www.usenix.org/conference/usenixsecurity23), [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25)
+- CS Law: [2025](https://computersciencelaw.org/2025/cfp)
 - CSF: [2018](https://www.cs.ox.ac.uk/conferences/csf2018/pc.html), [2022](https://www.ieee-security.org/TC/CSF2022/committee.html), [2024](https://csf2024.ieee-security.org/committee.html), [2025](https://csf2025.ieee-security.org/committee.html)
+- USENIX Security: [2021](https://www.usenix.org/conference/usenixsecurity21), [2022](https://www.usenix.org/conference/usenixsecurity22), [2023](https://www.usenix.org/conference/usenixsecurity23), [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25)
 - CCSW: [2021](https://ccsw.io/2021/), [2022](https://ccsw.io/2022/), [2023](https://ccsw.io/2023/), [2024](https://ccsw.io/)
 - TPS: [2024](https://sis.pitt.edu/lersais/conference/tps/2024/)
 - IEEE S&P / Oakland: [2020](https://www.ieee-security.org/TC/SP2020/cfpapers.html), [2023](https://www.ieee-security.org/TC/SP2023/cfpapers.html)
