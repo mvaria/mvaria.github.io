@@ -17,7 +17,7 @@ gem "minima", "~> 2.0"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8.2"
 
 gem "rexml", ">= 3.3.6"
 gem "nokogiri", ">= 1.16.5"
