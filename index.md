@@ -117,7 +117,7 @@ BU's The Brink ([1](https://www.bu.edu/articles/2022/traceable-end-to-end-encryp
 
 Here are a few of my invited conference and seminar talks, which are available to watch on YouTube.
 
-- [EAAMO 2023 keynote talk](https://www.youtube.com/watch?v=kqymlLAjytE) - Cryptographically Protected Data Science For All
+- [EAAMO 2023 Keynote Talk](https://www.youtube.com/watch?v=kqymlLAjytE) - Cryptographically Protected Data Science For All
 - [UN Webinar, Feb 2023](https://www.youtube.com/watch?v=leiigEA2dAI&t=3630s) - Legal & Regulatory Issues Arising from the Use of PETs
 - [Columbia Data for Good Seminar, March 2022](https://www.youtube.com/watch?v=TCT-q5UbTjM) - Data Science Without Data
 - [C3.ai Seminar, Aug 2021](https://www.youtube.com/watch?v=rR9AenqGxa0) - Cryptography and the Democratizing Power of Learning Nothing
