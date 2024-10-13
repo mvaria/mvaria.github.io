@@ -16,6 +16,17 @@ I work as an Associate Professor in the [Faculty of Computing & Data Sciences](h
 I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/64489) in 2010, and a [BSE from Duke University](https://math.duke.edu/undergraduate/graduation-with-distinction/senior-theses) in 2005.
 
 
+### Applying to work with me
+
+Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/riscs/people/) and [theoretical computer science](https://www.bu.edu/tcs/), and it is recognized as a [Center of Academic Excellence](https://www.caecommunity.org/cae-map) in Cyber Defense and Research. If you are a current or prospective student and would like to work with me, please follow these instructions.
+
+- If you are a current BU undergraduate or MS student: register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUSec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email describing your interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
+
+- If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about the program). I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
+
+If you are a current BU student and would like to serve as a course assistant: please submit a [TF/TA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/tf-application/) if you are a graduate student, or a [CA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/course-assistants/) if you are an undergraduate student.
+
+
 ### News
 
 - 2024-25: Hosting [Dan Roche](https://roche.work/) as a visiting professor at BU
@@ -40,8 +51,6 @@ I have taught several courses at Boston University. Some have been co-taught wit
 - **Law and Algorithms** (DS 657 / JD 673): spring [2023](https://cs-people.bu.edu/kaptchuk/teaching/ds457/sp23-classpage.html), [2024](http://www.lawalg.org/)
 - **Applied Cryptography** (CS 568): spring [2016](https://piazza.com/bu/spring2016/cascs591v1/info), [2017](https://piazza.com/bu/spring2017/cs591v1/info), [2018](https://piazza.com/bu/spring2018/cs591v1/info), [2019](https://piazza.com/bu/spring2019/cs568/info), [2020](https://piazza.com/bu/spring2020/cs568/info)
 - **MPC at Scale** (CS 591): fall [2016](https://piazza.com/bu/fall2016/cs591b2/info), [2017](https://piazza.com/bu/fall2017/cs591v1/info)
-
-If you are a current BU student and would like to serve as a course assistant: please submit a [TF/TA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/tf-application/) if you are a graduate student, or a [CA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/course-assistants/) if you are an undergraduate student.
 
 
 <div id="advising"></div>
@@ -83,14 +92,6 @@ Some of the students I've supervised have gone on to pursue a PhD:
 - Xinyuan Zhang (2021). Now a PhD student at Duke.
 - Julie Ha (2022). Now a PhD student at BU.
 
-### Applying to work with me
-
-Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/riscs/people/) and [theoretical computer science](https://www.bu.edu/tcs/), and it is recognized as a [Center of Academic Excellence](https://www.caecommunity.org/cae-map) in Cyber Defense and Research. If you are a current or prospective student and would like to work with me, please follow these instructions.
-
-- If you are a current BU undergraduate or MS student: register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUSec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email describing your interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
-
-- If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about the program). I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
-
 
 <div id="media"></div>
 ## Media
@@ -116,7 +117,7 @@ BU's The Brink ([1](https://www.bu.edu/articles/2022/traceable-end-to-end-encryp
 
 Here are a few of my invited conference and seminar talks, which are available to watch on YouTube.
 
-- [EAAMO 2023](https://www.youtube.com/watch?v=kqymlLAjytE) - Cryptographically Protected Data Science For All
+- [EAAMO 2023 keynote talk](https://www.youtube.com/watch?v=kqymlLAjytE) - Cryptographically Protected Data Science For All
 - [UN Webinar, Feb 2023](https://www.youtube.com/watch?v=leiigEA2dAI&t=3630s) - Legal & Regulatory Issues Arising from the Use of PETs
 - [Columbia Data for Good Seminar, March 2022](https://www.youtube.com/watch?v=TCT-q5UbTjM) - Data Science Without Data
 - [C3.ai Seminar, Aug 2021](https://www.youtube.com/watch?v=rR9AenqGxa0) - Cryptography and the Democratizing Power of Learning Nothing

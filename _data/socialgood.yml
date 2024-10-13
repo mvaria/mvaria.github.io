@@ -29,6 +29,6 @@ main:
 
   - title: "User-centric distributed solutions for privacy-preserving analytics"
     authors: Azer Bestavros, Andrei Lapets, Mayank Varia
-    conference: Communications of the ACM (2017)
+    conference: Communications of the ACM 2017
     pdf: https://dl.acm.org/doi/pdf/10.1145/3029603
     bibtex: https://dblp.org/rec/journals/cacm/BestavrosLV17.html?view=bibtex
