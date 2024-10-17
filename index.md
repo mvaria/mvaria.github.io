@@ -16,17 +16,6 @@ I work as an Associate Professor in the [Faculty of Computing & Data Sciences](h
 I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/64489) in 2010, and a [BSE from Duke University](https://math.duke.edu/undergraduate/graduation-with-distinction/senior-theses) in 2005.
 
 
-### Applying to work with me
-
-Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/riscs/people/) and [theoretical computer science](https://www.bu.edu/tcs/), and it is recognized as a [Center of Academic Excellence](https://www.caecommunity.org/cae-map) in Cyber Defense and Research. If you are a current or prospective student and would like to work with me, please follow these instructions.
-
-- If you are a current BU undergraduate or MS student: register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUSec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email describing your interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
-
-- If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about the program). I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
-
-If you are a current BU student and would like to serve as a course assistant: please submit a [TF/TA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/tf-application/) if you are a graduate student, or a [CA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/course-assistants/) if you are an undergraduate student.
-
-
 ### News
 
 - 2024-25: Hosting [Dan Roche](https://roche.work/) as a visiting professor at BU
@@ -39,6 +28,17 @@ If you are a current BU student and would like to serve as a course assistant: p
 - 2017: Received two [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1718135) [grants](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1739000) for $1.5M to design, develop, and apply MPC in practice
 - 2016: Created [two](https://piazza.com/bu/spring2016/cascs591v1/info) [courses](https://piazza.com/bu/fall2016/cs591b2/info), appointed as [BU RISCS](https://www.bu.edu/riscs/) co-director and MIT research affiliate
 - 2015: Joined BU's [Hariri Institute](https://www.bu.edu/hic/) as Director of Research for the $10M [MACS](https://www.bu.edu/macs/) Frontier grant
+
+
+### Applying to work with me
+
+Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/riscs/people/) and [theoretical computer science](https://www.bu.edu/tcs/), and it is recognized as a [Center of Academic Excellence](https://www.caecommunity.org/cae-map) in Cyber Defense and Research. If you are a current or prospective student and would like to work with me, please follow these instructions.
+
+- If you are a current BU undergraduate or MS student: register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUSec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email describing your interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
+
+- If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about the program). I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
+
+If you are a current BU student and would like to serve as a course assistant: please submit a [TF/TA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/tf-application/) if you are a graduate student, or a [CA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/course-assistants/) if you are an undergraduate student.
 
 
 <div id="teaching"></div>
@@ -138,6 +138,7 @@ Here are a few of my invited conference and seminar talks, which are available t
 
 ### Conference and workshop organization
 
+- General chair, IACR CRYPTO 2026, August 2026
 - Local arrangements chair, [3rd ACM Symposium on Computer Science and Law](https://computersciencelaw.org/), March 2024
 - General chair, [33rd IEEE Computer Security Foundations Symposium](https://www.ieee-security.org/TC/CSF2020/), June 2020
 - Co-organizer, [DIMACS/MACS Workshop on Usable, Efficient, and Formally Verified Secure Computation](http://dimacs.rutgers.edu/events/details?eID=400), March 2019
