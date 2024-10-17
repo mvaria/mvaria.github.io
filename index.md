@@ -138,7 +138,7 @@ Here are a few of my invited conference and seminar talks, which are available t
 
 ### Conference and workshop organization
 
-- General chair, IACR CRYPTO 2026, August 2026
+- General chair, 44th Annual International Cryptology Conference (CRYPTO), August 2026
 - Local arrangements chair, [3rd ACM Symposium on Computer Science and Law](https://computersciencelaw.org/), March 2024
 - General chair, [33rd IEEE Computer Security Foundations Symposium](https://www.ieee-security.org/TC/CSF2020/), June 2020
 - Co-organizer, [DIMACS/MACS Workshop on Usable, Efficient, and Formally Verified Secure Computation](http://dimacs.rutgers.edu/events/details?eID=400), March 2019
