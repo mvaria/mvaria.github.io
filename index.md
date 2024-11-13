@@ -36,7 +36,7 @@ Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/
 
 - If you are a current BU undergraduate or MS student: register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUSec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email describing your interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
 
-- If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about the program). I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
+- If you are not a current BU student: apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/). I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about the program). This is a [competitive program](https://www.bu.edu/grad/why-bu/phd-program-profiles/computing-data-sciences/), so please describe your prior work and future interests clearly in your research statement. I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
 
 If you are a current BU student and would like to serve as a course assistant: please submit a [TF/TA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/tf-application/) if you are a graduate student, or a [CA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/course-assistants/) if you are an undergraduate student.
 
@@ -77,7 +77,7 @@ I am fortunate to work with an excellent group of graduate and undergraduate stu
 
 ### PhD alums
 
-- [Sarah Scheffler](https://www.sarahscheffler.net/) (2021). Now an assistant professor at Carnegie Mellon University.
+- [Sarah Scheffler](https://www.sarahscheffler.net/) (2021). Now an Assistant Professor at Carnegie Mellon University.
 - [Rawane Issa](https://www.ra1issa.com/) (2022). Now a researcher at Galois.
 - [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (2024). On the job market!
 
