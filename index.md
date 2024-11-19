@@ -72,7 +72,7 @@ I am fortunate to work with an excellent group of graduate and undergraduate stu
 - [Ryan Little](https://ryanlittle.net/)
 - [René Reyes](https://ardee-reyes.github.io/) (co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/))
 
-### Current BS student
+### Current undergraduate student
 
 - Annie (Ting Chien) Huang
 
@@ -82,7 +82,7 @@ I am fortunate to work with an excellent group of graduate and undergraduate stu
 - [Rawane Issa](https://www.ra1issa.com/) (2022). Now a researcher at Galois.
 - [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (2024). On the job market!
 
-### BS alums
+### Undergraduate alums
 
 I have co-authored papers with undergraduate students that have been published at [CANS 2016](https://open.bu.edu/handle/2144/20634), [CSF 2017](https://eprint.iacr.org/2017/1256.pdf), [FC 2017](https://eprint.iacr.org/2016/1006.pdf), [SecDev 2019](https://eprint.iacr.org/2018/602.pdf), [SOUPS 2019](https://www.usenix.org/system/files/soups2019-qin.pdf), [STAST 2019](https://link.springer.com/chapter/10.1007/978-3-030-55958-8_10), [ACNS 2021](https://eprint.iacr.org/2021/478.pdf), [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/presentation/faisal), [SIGMOD 2024](https://cs-people.bu.edu/liagos/material/qs-sigmod24.pdf), and the [Journal of Young Investigators](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10321550/).
 
@@ -110,7 +110,7 @@ Additionally, others have written news articles and/or interviewed me about my r
 - Popular press: [The Boston Globe](https://epaper.bostonglobe.com/infinity/article_popover_share.aspx?guid=3bc24f8e-6f5b-46e4-82e1-62205f31f21f), [BU Daily Free Press](https://dailyfreepress.com/2023/10/25/bu-researchers-receive-550000-grant-propose-holistic-approach-to-misinformation/), [CNET](https://www.cnet.com/tech/mobile/coronavirus-app-could-trace-your-contacts-without-sacrificing-your-privacy/), [Deseret News](https://www.deseret.com/indepth/2020/4/19/21220856/google-apple-contact-tracing-bluetooth-opt-in-privacy-secure-data-sharing-covid-19-coronavirus-test), [Engadget](https://www.engadget.com/automatic-covid-19-contact-tracing-mit-192535783.html), [The Hill](https://thehill.com/opinion/cybersecurity/385549-tech-titan-efforts-to-stop-terrorists-from-going-dark-are-so-far/), [The Register](https://www.theregister.com/2016/10/28/researchers_tag_new_brace_of_bugs_in_ntp_but_theyre_fixable/), [TechCrunch](https://techcrunch.com/2020/04/09/mit-develops-privacy-preserving-covid-19-contact-tracing-inspired-by-apples-find-my-feature/), [The Washington Post](https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/04/09/the-technology-202-mit-researchers-unveil-effort-to-trace-spread-of-the-coronavirus/5e8e3282602ff10d49ae096a/), [WGBH News](https://www.wgbh.org/news/local/2020-04-10/coming-soon-tracking-the-spread-of-covid-19-with-smartphones), and ZDNet ([1](https://www.zdnet.com/article/researchers-invent-method-to-track-coronavirus-through-smartphones-while-protecting-our-privacy/), [2](https://www.zdnet.com/article/cryptographic-crumpling-the-encryption-middle-ground-solution-for-government-surveillance/)).
 - University press:
 [BU Annual Report](https://www.bu.edu/ar/2018/ethics-v-technology.html),
-BU's The Brink ([1](https://www.bu.edu/articles/2022/traceable-end-to-end-encryption-whatsapp), [2](https://www.bu.edu/articles/2020/contact-tracing-app-warns-of-covid-19-exposure-while-protecting-privacy), [3](https://www.bu.edu/articles/2020/after-tik-tok-wechat-bans-go-into-effect-will-it-be-a-crime-to-use-apps-in-us), [4](https://www.bu.edu/articles/2019/secure-multiparty-computation/)), and MIT News ([1](https://news.mit.edu/2020/bluetooth-covid-19-contact-tracing-0409), [2](https://news.mit.edu/2014/cryptographic-schemes-security-guarantees-1030)).
+BU's The Brink ([1](https://www.bu.edu/articles/2024/password-help-may-be-in-sight/), [2](https://www.bu.edu/articles/2022/traceable-end-to-end-encryption-whatsapp), [3](https://www.bu.edu/articles/2020/contact-tracing-app-warns-of-covid-19-exposure-while-protecting-privacy), [4](https://www.bu.edu/articles/2020/after-tik-tok-wechat-bans-go-into-effect-will-it-be-a-crime-to-use-apps-in-us), [5](https://www.bu.edu/articles/2019/secure-multiparty-computation/)), and MIT News ([1](https://news.mit.edu/2020/bluetooth-covid-19-contact-tracing-0409), [2](https://news.mit.edu/2014/cryptographic-schemes-security-guarantees-1030)).
 - Technology blogs: [CCC blog](https://www.cccblog.org/2020/04/22/automated-contact-tracing-for-fighting-the-coronavirus-a-short-tem-effort-with-long-term-repercussions), [Millenium Alliance](https://mill-all.com/digital-diary/new-technology-to-help-fight-against-the-global-pandemic), [The Morning Paper](https://blog.acolyer.org/2017/06/26/sok-cryptographically-protected-database-search/), and [TrustedCI blog](https://blog.trustedci.org/2020/01/transition-to-practice-success-story.html).
 
 
