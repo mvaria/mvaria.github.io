@@ -80,7 +80,7 @@ I am fortunate to work with an excellent group of graduate and undergraduate stu
 
 - [Sarah Scheffler](https://www.sarahscheffler.net/) (2021). Now an Assistant Professor at Carnegie Mellon University.
 - [Rawane Issa](https://www.ra1issa.com/) (2022). Now a researcher at Galois.
-- [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (2024). On the job market!
+- [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (2024). Currently a postdoc with [Eran Tromer](https://cs-people.bu.edu/tromer/).
 
 ### Undergraduate alums
 
