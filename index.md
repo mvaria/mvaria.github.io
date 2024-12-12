@@ -59,12 +59,12 @@ I have taught several courses at Boston University. Some have been co-taught wit
 
 I am fortunate to work with an excellent group of graduate and undergraduate students.
 
-### Current postdoc
+### Current advisees
 
+Postdoctoral scholar
 - [Alishah Chator](https://alishahc.com/)
 
-### Current PhD students
-
+PhD students
 - [Eli Baum](https://elibaum.com/) (co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/))
 - [Sam Buxbaum](https://sambux.org/) (co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/))
 - [Julia Guskind](https://julia-guskind.github.io/) (co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/))
@@ -72,26 +72,24 @@ I am fortunate to work with an excellent group of graduate and undergraduate stu
 - [Ryan Little](https://ryanlittle.net/)
 - [René Reyes](https://ardee-reyes.github.io/) (co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/))
 
-### Current undergraduate student
+Undergraduate student
 
 - Annie (Ting Chien) Huang
 
-### PhD alums
+### Alums
 
+PhD alums
 - [Sarah Scheffler](https://www.sarahscheffler.net/) (2021). Now an Assistant Professor at Carnegie Mellon University.
 - [Rawane Issa](https://www.ra1issa.com/) (2022). Now a researcher at Galois.
 - [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (2024). Currently a postdoc with [Eran Tromer](https://cs-people.bu.edu/tromer/).
 
-### Undergraduate alums
-
-I have co-authored papers with undergraduate students that have been published at [CANS 2016](https://open.bu.edu/handle/2144/20634), [CSF 2017](https://eprint.iacr.org/2017/1256.pdf), [FC 2017](https://eprint.iacr.org/2016/1006.pdf), [SecDev 2019](https://eprint.iacr.org/2018/602.pdf), [SOUPS 2019](https://www.usenix.org/system/files/soups2019-qin.pdf), [STAST 2019](https://link.springer.com/chapter/10.1007/978-3-030-55958-8_10), [ACNS 2021](https://eprint.iacr.org/2021/478.pdf), [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/presentation/faisal), [SIGMOD 2024](https://cs-people.bu.edu/liagos/material/qs-sigmod24.pdf), and the [Journal of Young Investigators](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10321550/).
-
-Some of the students I've supervised have gone on to pursue a PhD:
-
+Selected undergraduate alums
 - Kyle Hogan (2017). Now a PhD student at MIT.
 - Ziling Yang (2021). Now a PhD student at UIUC.
 - Xinyuan Zhang (2021). Now a PhD student at Duke.
 - Julie Ha (2022). Now a PhD student at BU.
+
+I have co-authored papers with undergraduate students that have been published at [CANS 2016](https://open.bu.edu/handle/2144/20634), [CSF 2017](https://eprint.iacr.org/2017/1256.pdf), [FC 2017](https://eprint.iacr.org/2016/1006.pdf), [SecDev 2019](https://eprint.iacr.org/2018/602.pdf), [SOUPS 2019](https://www.usenix.org/system/files/soups2019-qin.pdf), [STAST 2019](https://link.springer.com/chapter/10.1007/978-3-030-55958-8_10), [ACNS 2021](https://eprint.iacr.org/2021/478.pdf), [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/presentation/faisal), [SIGMOD 2024](https://cs-people.bu.edu/liagos/material/qs-sigmod24.pdf), and the [Journal of Young Investigators](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10321550/).
 
 
 <div id="media"></div>
