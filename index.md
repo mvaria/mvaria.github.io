@@ -18,7 +18,8 @@ I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/
 
 ### News
 
-- 2024-25: Hosting [Dan Roche](https://roche.work/) as a visiting professor at BU
+- 2025-26: Member of the [IACR Board of Directors](https://iacr.org/bod.html)
+- 2024: Hosting [Dan Roche](https://roche.work/) as a visiting professor at BU
 - 2023: Received CDS [Distinguished Leadership Award](https://www.bu.edu/cds-faculty/2023/05/18/cds-launches-faculty-staff-awards-program-three-honored-for-citizenship-distinguished-leadership/) and a Hariri Institute [Innovation Award](https://www.bu.edu/hic/2023/06/21/2023-hariri-institute-community-recognition-awards/)
 - 2022: Hosted [Civic Voices](https://www.bu.edu/cds-faculty/2022/10/05/civic-voices-ecash-act/) event to discuss tech policy with two U.S. Representatives
 - 2021: Moved to BU [CDS](https://www.bu.edu/cds-faculty/) as an Associate Professor, and [received tenure](https://www.bu.edu/cds-faculty/2022/01/07/mayank-varia-tenured-associate-professor/)
