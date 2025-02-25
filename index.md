@@ -66,12 +66,12 @@ Postdoctoral scholar
 - [Alishah Chator](https://alishahc.com/) ✨ on the job market! ✨ 
 
 PhD students
-- [Eli Baum](https://elibaum.com/) (co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/))
-- [Sam Buxbaum](https://sambux.org/) (co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/))
-- [Julia Guskind](https://julia-guskind.github.io/) (co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/))
+- [Eli Baum](https://elibaum.com/), co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/)
+- [Sam Buxbaum](https://sambux.org/), co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/)
+- [Julia Guskind](https://julia-guskind.github.io/), co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/)
 - [Julie Ha](https://www.hajulie.com/)
 - [Ryan Little](https://ryanlittle.net/)
-- [René Reyes](https://ardee-reyes.github.io/) (co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/))
+- [René Reyes](https://ardee-reyes.github.io/), co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/)
 
 Undergraduate student
 
@@ -80,9 +80,12 @@ Undergraduate student
 ### Alums
 
 PhD alums
-- [Sarah Scheffler](https://www.sarahscheffler.net/) (2021). Now an Assistant Professor at Carnegie Mellon University.
-- [Rawane Issa](https://www.ra1issa.com/) (2022). Now a researcher at Galois.
+- [Sarah Scheffler](https://www.sarahscheffler.net/) (2021, [thesis](https://hdl.handle.net/2144/42970)). Now an Assistant Professor at Carnegie Mellon University.
+- [Rawane Issa](https://www.ra1issa.com/) (2022, [thesis](https://hdl.handle.net/2144/46383)). Now a researcher at Galois.
 - [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (2024). Currently a postdoc with [Eran Tromer](https://cs-people.bu.edu/tromer/).
+
+MS alums
+- Yang Yang (2013, [thesis](https://dspace.mit.edu/handle/1721.1/85530)), co-advised with Ron Rivest.
 
 Selected undergraduate alums
 - Kyle Hogan (2017). Now a PhD student at MIT.
