@@ -2,7 +2,7 @@ main:
 
   - title: "Haven++: Batched and Packed Dual-Threshold Asynchronous Complete Secret Sharing with Applications"
     authors: Nicolas Alhaddad, Mayank Varia, Ziling Yang
-    conference: CIC
+    conference: Communications in Cryptology 2024
     pdf: https://cic.iacr.org/p/1/4/3/pdf
     bibtex: https://dblp.org/rec/journals/cic/AlhaddadVY24.html?view=bibtex
 
