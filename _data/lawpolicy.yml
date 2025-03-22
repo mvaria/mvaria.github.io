@@ -1,11 +1,8 @@
 main:
 
-  - title: "Hecate: Abuse Reporting in Secure Messengers with Sealed Sender"
-    authors: Rawane Issa, Nicolas Alhaddad, Mayank Varia
-    conference: USENIX Security 2022
-    pdf: https://eprint.iacr.org/2021/1686.pdf
-    code: https://github.com/Ra1issa/hecate
-    bibtex: https://dblp.org/rec/conf/uss/IssaAV22.html?view=bibtex
+  - title: "Murmurs of the Silenced: Secure Reporting of Misconduct Settlements"
+    authors: Peter K. Chan, Alyson Carrel, Mayank Varia, Xiao Wang
+    conference: CSLaw 2025
 
   - title: "Can the Government Compel Decryption? Don't Trust - Verify"
     authors: Aloni Cohen, Sarah Scheffler, Mayank Varia

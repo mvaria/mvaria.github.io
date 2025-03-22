@@ -7,6 +7,13 @@ main:
     code: https://github.com/multiparty/web-mpc
     bibtex: https://dblp.org/rec/conf/uss/LittleQV24.html?view=bibtex
 
+  - title: "Hecate: Abuse Reporting in Secure Messengers with Sealed Sender"
+    authors: Rawane Issa, Nicolas Alhaddad, Mayank Varia
+    conference: USENIX Security 2022
+    pdf: https://eprint.iacr.org/2021/1686.pdf
+    code: https://github.com/Ra1issa/hecate
+    bibtex: https://dblp.org/rec/conf/uss/IssaAV22.html?view=bibtex
+
   - title: "From Usability to Secure Computing and Back Again"
     authors: Lucy Qin, Andrei Lapets, Frederick Jansen, Peter Flockhart, Kinan Dak Albab, Ira Globus-Harris, Shannon Roberts, Mayank Varia
     conference: SOUPS 2019
