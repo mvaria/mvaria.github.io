@@ -171,7 +171,7 @@ I construct formal, composable proofs of security for cryptographic protocols an
 
 ### <i class="fa fa-lightbulb"></i> Privacy & Inference
 
-I develop information theoric bounds on data reconstruction attacks, and characterize the tradeoffs between privacy and utility.
+I develop information theoretic bounds on data reconstruction attacks, and characterize the tradeoffs between privacy and utility.
 
 <ul>
 {% for link in site.data.inference.main %}
