@@ -1,0 +1,42 @@
+main:
+
+  - title: "Hecate: Abuse Reporting in Secure Messengers with Sealed Sender"
+    authors: Rawane Issa, Nicolas Alhaddad, Mayank Varia
+    conference: USENIX Security 2022
+    pdf: https://eprint.iacr.org/2021/1686.pdf
+    code: https://github.com/Ra1issa/hecate
+    bibtex: https://dblp.org/rec/conf/uss/IssaAV22.html?view=bibtex
+
+  - title: "Batched Differentially Private Information Retrieval"
+    authors: Kinan Dak Albab, Rawane Issa, Mayank Varia, Kalman Graffi
+    conference: USENIX Security 2022
+    pdf: https://www.usenix.org/system/files/sec22-albab.pdf
+    code: https://github.com/multiparty/DP-PIR/tree/usenix2022
+    bibtex: https://dblp.org/rec/conf/uss/IssaAV22.html?view=bibtex
+
+  - title: "(ε, δ)-Indistinguishable Mixing for Cryptocurrencies"
+    authors: Mingyu Liang, Ioanna Karantaidou, Foteini Baldimtsi, S. Dov Gordon, Mayank Varia
+    conference: PETS 2022
+    pdf: https://petsymposium.org/popets/2022/popets-2022-0004.pdf
+    bibtex: https://dblp.org/rec/journals/popets/LiangKBGV22.html?view=bibtex
+
+  - title: "TurboIKOS: Improved Non-interactive Zero Knowledge and Post-Quantum Signatures"
+    authors: Yaron Gvili, Julie Ha, Sarah Scheffler, Mayank Varia, Ziling Yang, Xinyuan Zhang
+    conference: ACNS 2021
+    pdf: https://eprint.iacr.org/2021/478.pdf
+    code: https://github.com/sarahscheffler/TurboIKOS
+    bibtex: https://dblp.org/rec/conf/acns/GviliHSVYZ21.html?view=bibtex
+
+  - title: "Secret Sharing MPC on FPGAs in the Datacenter"
+    authors: Pierre-Francois Wolfe, Rushi Patel, Robert Munafo, Mayank Varia, Martin C. Herbordt
+    conference: FPL 2020
+    pdf: https://arxiv.org/pdf/2007.00826.pdf
+    bibtex: https://dblp.org/rec/conf/fpl/WolfePMVH20.html?view=bibtex
+
+  - title: "Arithmetic and Boolean Secret Sharing MPC on FPGAs in the Data Center"
+    authors: Rushi Patel, Pierre-Francois Wolfe, Robert Munafo, Mayank Varia, Martin C. Herbordt
+    conference: HPEC 2020
+    pdf: https://par.nsf.gov/servlets/purl/10195302
+    bibtex: https://dblp.org/rec/conf/hpec/PatelWMVH20.html?view=bibtex
+
+

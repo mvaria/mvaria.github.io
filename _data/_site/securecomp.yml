@@ -17,6 +17,25 @@ main:
     code: https://github.com/CASP-Systems-BU/Secrecy
     bibtex: https://dblp.org/rec/conf/nsdi/LiagourisKFV23.html?view=bibtex
 
+  - title: "Batched Differentially Private Information Retrieval"
+    authors: Kinan Dak Albab, Rawane Issa, Mayank Varia, Kalman Graffi
+    conference: USENIX Security 2022
+    pdf: https://www.usenix.org/system/files/sec22-albab.pdf
+    code: https://github.com/multiparty/DP-PIR/tree/usenix2022
+    bibtex: https://dblp.org/rec/conf/uss/IssaAV22.html?view=bibtex
+
+  - title: "Secret Sharing MPC on FPGAs in the Datacenter"
+    authors: Pierre-Francois Wolfe, Rushi Patel, Robert Munafo, Mayank Varia, Martin C. Herbordt
+    conference: FPL 2020
+    pdf: https://arxiv.org/pdf/2007.00826.pdf
+    bibtex: https://dblp.org/rec/conf/fpl/WolfePMVH20.html?view=bibtex
+
+  - title: "Arithmetic and Boolean Secret Sharing MPC on FPGAs in the Data Center"
+    authors: Rushi Patel, Pierre-Francois Wolfe, Robert Munafo, Mayank Varia, Martin C. Herbordt
+    conference: HPEC 2020
+    pdf: https://par.nsf.gov/servlets/purl/10195302
+    bibtex: https://dblp.org/rec/conf/hpec/PatelWMVH20.html?view=bibtex
+
   - title: "Conclave: Secure Multi-Party Computation on Big Data"
     authors: Nikolaj Volgushev, Malte Schwarzkopf, Ben Getchell, Mayank Varia, Andrei Lapets, Azer Bestavros
     conference: EuroSys 2019

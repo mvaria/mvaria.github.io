@@ -48,7 +48,7 @@ If you are a current BU student and would like to serve as a course assistant: p
 
 I have taught several courses at Boston University. Some have been co-taught with my colleagues: [Azer Bestavros](https://azer.bestavros.net/), [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/), [Gabe Kaptchuk](https://www.cs.umd.edu/~kaptchuk/), [Andrei Lapets](https://lapets.io/), and [Andy Sellars](https://www.bu.edu/law/profile/andrew-sellars/).
 
-- **Crypto for Data Science** (DS 453 / 653): spring [2023](https://piazza.com/bu/spring2023/ds453653/info), [2024](https://piazza.com/bu/spring2024/ds453653/info), [2025](https://piazza.com/bu/spring2025/ds653/info)
+- **Crypto for Data Science** (DS 653): spring [2023](https://piazza.com/bu/spring2023/ds453653/info), [2024](https://piazza.com/bu/spring2024/ds453653/info), [2025](https://piazza.com/bu/spring2025/ds653/info)
 - **Foundations of Data Science II** (DS 121): spring [2022](https://piazza.com/bu/spring2022/ds121/info) and fall [2022](https://piazza.com/bu/fall2022/ds121/info), [2023](https://piazza.com/bu/fall2023/ds121/info), [2024](https://piazza.com/bu/fall2024/ds121a/info)
 - **Law and Algorithms** (DS 657 / JD 673): spring [2023](https://cs-people.bu.edu/kaptchuk/teaching/ds457/sp23-classpage.html), [2024](http://www.lawalg.org/)
 - **Applied Cryptography** (CS 568): spring [2016](https://piazza.com/bu/spring2016/cascs591v1/info), [2017](https://piazza.com/bu/spring2017/cs591v1/info), [2018](https://piazza.com/bu/spring2018/cs591v1/info), [2019](https://piazza.com/bu/spring2019/cs568/info), [2020](https://piazza.com/bu/spring2020/cs568/info)
@@ -66,11 +66,11 @@ Postdoctoral scholar
 - [Alishah Chator](https://alishahc.com/). Accepted an Assistant Professor position at Baruch College.
 
 PhD students
+- [Julie Ha](https://www.hajulie.com/)
+- [Ryan Little](https://ryanlittle.net/)
 - [Eli Baum](https://elibaum.com/), co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/)
 - [Sam Buxbaum](https://sambux.org/), co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/)
 - [Julia Guskind](https://julia-guskind.github.io/), co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/)
-- [Julie Ha](https://www.hajulie.com/)
-- [Ryan Little](https://ryanlittle.net/)
 - [René Reyes](https://ardee-reyes.github.io/), co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/)
 
 Undergraduate student

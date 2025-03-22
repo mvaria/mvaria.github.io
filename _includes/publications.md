@@ -1,9 +1,9 @@
 Below, I describe some major themes of my research and provide links to selected peer-reviewed publications. You can find a list of all of my publications at <a href="https://dblp.org/pid/59/6288.html"><i class="ai ai-dblp"></i> DBLP</a> and <a href="https://scholar.google.com/citations?user=lneZSfIAAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a>.
 
 
-### <i class="fa fa-cloud"></i> Data Analysis for Social Good
+### <i class="fa fa-users"></i> Data Analysis for Social Good
 
-I deploy privacy-respecting systems in practice, with a focus on empowerment and accessibility.
+I deploy privacy-respecting systems in practice, with a focus on empowerment and ease of use.
 
 <ul>
 {% for link in site.data.socialgood.main %}
@@ -37,10 +37,44 @@ I deploy privacy-respecting systems in practice, with a focus on empowerment and
 
 ### <i class="fa fa-database"></i> Secure Computing & Search
 
-I design and develop cryptographic systems that allow people to perform collaborative analysis of protected data.
+I develop cryptographic systems that allow people to collaboratively perform relational and time-series analysis of protected data.
 
 <ul>
 {% for link in site.data.securecomp.main %}
+<li>
+    <strong>{{ link.title }}</strong>.
+    {{ link.authors }}.
+    <em>{{ link.conference }}</em>.
+    {% if link.pdf %} 
+      <a href="{{ link.pdf }}" style="font-size:12px;">[PDF]</a>
+      {% endif %}
+      {% if link.bibtex %} 
+      <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
+      {% endif %}
+      {% if link.code %} 
+      <a href="{{ link.code }}" style="font-size:12px;">[Code]</a>
+      {% endif %}
+      {% if link.page %} 
+      <a href="{{ link.page }}" style="font-size:12px;">[Project Page]</a>
+      {% endif %}
+      {% if link.notes %} 
+      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      {% endif %}
+      {% if link.others %} 
+      {{ link.others }}
+      {% endif %}
+</li>
+{% endfor %}
+</ul>
+
+
+
+### <i class="fa fa-cloud"></i> Applied Cryptography
+
+I design cryptographic protocols that are tailored to the functionality, security, and performance requirements of specific scenarios.
+
+<ul>
+{% for link in site.data.appliedcrypto.main %}
 <li>
     <strong>{{ link.title }}</strong>.
     {{ link.authors }}.
@@ -105,7 +139,7 @@ I examine the social impact of cryptography and the design of cryptosystems that
 
 ### <i class="fa fa-server"></i> Cryptographic & Distributed Algorithms
 
-I design foundational crypto algorithms, including distributed algorithms that allow parties to reach consensus over an asynchronous network.
+I study foundational crypto algorithms, including distributed algorithms that allow parties to reach consensus over an asynchronous network.
 
 <ul>
 {% for link in site.data.algorithms.main %}
@@ -171,7 +205,7 @@ I construct formal, composable proofs of security for cryptographic protocols an
 
 ### <i class="fa fa-lightbulb"></i> Privacy & Inference
 
-I develop information theoretic bounds on data reconstruction attacks, and characterize the tradeoffs between privacy and utility.
+I find information theoretic bounds on data reconstruction attacks, and characterize the tradeoffs between privacy and utility.
 
 <ul>
 {% for link in site.data.inference.main %}

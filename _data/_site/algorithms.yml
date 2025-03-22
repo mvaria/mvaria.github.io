@@ -12,11 +12,24 @@ main:
     pdf: https://dl.acm.org/doi/pdf/10.1145/3519270.3538475
     bibtex: https://dblp.org/rec/conf/podc/AlhaddadDD0VXZ22.html?view=bibtex
 
+  - title: "(ε, δ)-Indistinguishable Mixing for Cryptocurrencies"
+    authors: Mingyu Liang, Ioanna Karantaidou, Foteini Baldimtsi, S. Dov Gordon, Mayank Varia
+    conference: PETS 2022
+    pdf: https://petsymposium.org/popets/2022/popets-2022-0004.pdf
+    bibtex: https://dblp.org/rec/journals/popets/LiangKBGV22.html?view=bibtex
+
   - title: "High-Threshold AVSS with Optimal Communication Complexity"
     authors: Nicolas Alhaddad, Mayank Varia, Haibin Zhang
     conference: FC 2021
     pdf: https://eprint.iacr.org/2021/118.pdf
     bibtex: https://dblp.org/rec/conf/fc/AlhaddadVZ21.html?view=bibtex
+
+  - title: "TurboIKOS: Improved Non-interactive Zero Knowledge and Post-Quantum Signatures"
+    authors: Yaron Gvili, Julie Ha, Sarah Scheffler, Mayank Varia, Ziling Yang, Xinyuan Zhang
+    conference: ACNS 2021
+    pdf: https://eprint.iacr.org/2021/478.pdf
+    code: https://github.com/sarahscheffler/TurboIKOS
+    bibtex: https://dblp.org/rec/conf/acns/GviliHSVYZ21.html?view=bibtex
 
   - title: "BooLigero: Improved Sublinear Zero Knowledge Proofs for Boolean Circuits"
     authors: Yaron Gvili, Sarah Scheffler, Mayank Varia

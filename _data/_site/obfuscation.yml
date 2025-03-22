@@ -1,0 +1,19 @@
+main:
+
+  - title: "Obfuscation of Hyperplane Membership"
+    authors: Ran Canetti, Guy N. Rothblum, Mayank Varia
+    conference: TCC 2010
+    pdf: https://www.iacr.org/archive/tcc2010/59780071/59780071.pdf
+    bibtex: https://dblp.org/rec/conf/tcc/CanettiRV10.html?view=bibtex
+  
+  - title: "On Symmetric Encryption and Point Obfuscation"
+    authors: Ran Canetti, Yael Tauman Kalai, Mayank Varia, Daniel Wichs
+    conference: TCC 2010
+    pdf: https://eprint.iacr.org/2010/049.pdf
+    bibtex: https://dblp.org/rec/conf/tcc/CanettiKVW10.html?view=bibtex
+  
+  - title: "Non-Malleable Obfuscation"
+    authors: Ran Canetti, Mayank Varia
+    conference: TCC 2009
+    pdf: https://eprint.iacr.org/2008/495.pdf
+    bibtex: https://dblp.org/rec/conf/tcc/CanettiV09.html?view=bibtex
