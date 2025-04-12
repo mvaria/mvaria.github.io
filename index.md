@@ -151,6 +151,7 @@ Here are a few of my invited conference and seminar talks, which are available t
 
 ### Program committees
 
+- CSCML: [2025](https://www.cscml.org/)
 - CS Law: [2025](https://computersciencelaw.org/2025/cfp)
 - CSF: [2018](https://www.cs.ox.ac.uk/conferences/csf2018/pc.html), [2022](https://www.ieee-security.org/TC/CSF2022/committee.html), [2024](https://csf2024.ieee-security.org/committee.html), [2025](https://csf2025.ieee-security.org/committee.html)
 - USENIX Security: [2021](https://www.usenix.org/conference/usenixsecurity21), [2022](https://www.usenix.org/conference/usenixsecurity22), [2023](https://www.usenix.org/conference/usenixsecurity23), [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25)
