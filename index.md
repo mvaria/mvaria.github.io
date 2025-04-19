@@ -181,3 +181,4 @@ I am grateful for the research support provided by the following organizations.
 - [Robert Bosch GmbH](https://carbynestack.io/)
 - [Zcash Foundation](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues/36)
 - BU Hariri Focused Research Programs: [Mobile Health Analysis](https://www.bu.edu/hic/research/focused-research-programs/continuous-analysis-of-mobile-health-data-among-medically-vulnerable-populations/), [Datacenter Energy Analytics](https://www.bu.edu/hic/privacy-preserving-energy-analytics-for-data-centers/)
+- BU Hariri [Data Privacy Collaborative](https://www.bu.edu/hic/research/industry-collaboratives/data-privacy-collaborative/)
