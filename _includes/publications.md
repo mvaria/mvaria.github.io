@@ -183,10 +183,10 @@ I construct formal, composable proofs of security for cryptographic protocols an
     {% if link.pdf %} 
       <a href="{{ link.pdf }}" style="font-size:12px;">[PDF]</a>
       {% endif %}
-      {% if link.code %} 
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" style="font-size:12px;">[BibTeX]</a>
       {% endif %}
+      {% if link.code %} 
       <a href="{{ link.code }}" style="font-size:12px;">[Code]</a>
       {% endif %}
       {% if link.page %} 
