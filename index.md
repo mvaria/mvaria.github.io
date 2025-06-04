@@ -71,11 +71,8 @@ PhD students
 - [Eli Baum](https://elibaum.com/), co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/)
 - [Sam Buxbaum](https://sambux.org/), co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/)
 - [Julia Guskind](https://julia-guskind.github.io/), co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/)
-- [René Reyes](https://ardee-reyes.github.io/), co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/)
+- [René Reyes](https://ardee-reyes.github.io/), co-advising with [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/)
 
-Undergraduate student
-
-- Annie (Ting Chien) Huang ✨ applying to PhD programs! ✨
 
 ### Alums
 
@@ -88,10 +85,11 @@ MS alums
 - Yang Yang (2013, [thesis](https://dspace.mit.edu/handle/1721.1/85530)), co-advised with Ron Rivest.
 
 Selected undergraduate alums
-- Kyle Hogan (2017). Now a PhD student at MIT.
-- Ziling Yang (2021). Now a PhD student at UIUC.
-- Xinyuan Zhang (2021). Now a PhD student at Duke.
-- Julie Ha (2022). Now a PhD student at BU.
+- Kyle Hogan (2017). Currently a PhD student at MIT.
+- Ziling Yang (2021). Currently a PhD student at UIUC.
+- Xinyuan Zhang (2021). Currently a PhD student at Duke.
+- Julie Ha (2022). Currently a PhD student at BU.
+- Annie (Ting Chien) Huang (2025). Will be a PhD student at the University of Washington.
 
 I have co-authored papers with undergraduate students that have been published at [CANS 2016](https://open.bu.edu/handle/2144/20634), [CSF 2017](https://eprint.iacr.org/2017/1256.pdf), [FC 2017](https://eprint.iacr.org/2016/1006.pdf), [SecDev 2019](https://eprint.iacr.org/2018/602.pdf), [SOUPS 2019](https://www.usenix.org/system/files/soups2019-qin.pdf), [STAST 2019](https://link.springer.com/chapter/10.1007/978-3-030-55958-8_10), [ACNS 2021](https://eprint.iacr.org/2021/478.pdf), [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/presentation/faisal), [SIGMOD 2024](https://cs-people.bu.edu/liagos/material/qs-sigmod24.pdf), and the [Journal of Young Investigators](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10321550/).
 
