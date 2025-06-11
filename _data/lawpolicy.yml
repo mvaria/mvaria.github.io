@@ -2,7 +2,9 @@ main:
 
   - title: "Murmurs of the Silenced: Secure Reporting of Misconduct Settlements"
     authors: Peter K. Chan, Alyson Carrel, Mayank Varia, Xiao Wang
-    conference: CSLaw 2025
+    conference: CSLaw 2025 (Best Paper Award)
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3709025.3712207
+    bibtex: https://dblp.org/rec/conf/cslaw/ChanCVW25.html?view=bibtex
 
   - title: "Can the Government Compel Decryption? Don't Trust — Verify"
     authors: Aloni Cohen, Sarah Scheffler, Mayank Varia
