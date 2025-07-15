@@ -67,9 +67,6 @@ I am fortunate to work with an excellent group of graduate and undergraduate stu
 
 ### Current advisees
 
-Postdoctoral scholar
-- [Alishah Chator](https://alishahc.com/). Accepted an Assistant Professor position at Baruch College.
-
 PhD students
 - [Julie Ha](https://www.hajulie.com/)
 - [Ryan Little](https://ryanlittle.net/)
@@ -81,13 +78,19 @@ PhD students
 
 ### Alums
 
+Visiting faculty
+- [Dan Roche](https://roche.work/) (2024-2025) from the U.S. Naval Academy
+
+Postdoctoral scholar
+- [Alishah Chator](https://alishahc.com/) (2023-2025), now an Assistant Professor at Baruch College.
+
 PhD alums
-- [Sarah Scheffler](https://www.sarahscheffler.net/) (2021, [thesis](https://hdl.handle.net/2144/42970)). Now an Assistant Professor at Carnegie Mellon University.
-- [Rawane Issa](https://www.ra1issa.com/) (2022, [thesis](https://hdl.handle.net/2144/46383)). Now a researcher at Galois.
-- [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (2024). Currently a postdoc with [Eran Tromer](https://cs-people.bu.edu/tromer/).
+- [Sarah Scheffler](https://www.sarahscheffler.net/) (2016-2021, [thesis](https://hdl.handle.net/2144/42970)), now an Assistant Professor at Carnegie Mellon University
+- [Rawane Issa](https://www.ra1issa.com/) (2016-2022, [thesis](https://hdl.handle.net/2144/46383)), now a researcher at Galois
+- [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (2018-2024), now a postdoc with [Eran Tromer](https://cs-people.bu.edu/tromer/)
 
 MS alums
-- Yang Yang (2013, [thesis](https://dspace.mit.edu/handle/1721.1/85530)), co-advised with Ron Rivest.
+- Yang Yang (2013, [thesis](https://dspace.mit.edu/handle/1721.1/85530)), co-advised with Ron Rivest
 
 Selected undergraduate alums
 - Kyle Hogan (2017). Currently a PhD student at MIT.
