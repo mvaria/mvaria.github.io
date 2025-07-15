@@ -82,7 +82,7 @@ Visiting faculty
 - [Dan Roche](https://roche.work/) (2024-2025) from the U.S. Naval Academy
 
 Postdoctoral scholar
-- [Alishah Chator](https://alishahc.com/) (2023-2025), now an Assistant Professor at Baruch College.
+- [Alishah Chator](https://alishahc.com/) (2023-2025), now an Assistant Professor at Baruch College
 
 PhD alums
 - [Sarah Scheffler](https://www.sarahscheffler.net/) (2016-2021, [thesis](https://hdl.handle.net/2144/42970)), now an Assistant Professor at Carnegie Mellon University
