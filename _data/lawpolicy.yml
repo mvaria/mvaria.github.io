@@ -2,25 +2,25 @@ main:
 
   - title: "Murmurs of the Silenced: Secure Reporting of Misconduct Settlements"
     authors: Peter K. Chan, Alyson Carrel, Mayank Varia, Xiao Wang
-    conference: CSLaw 2025 (Best Paper Award)
+    conference: CS Law 2025 (Best Paper Award)
     pdf: https://dl.acm.org/doi/pdf/10.1145/3709025.3712207
     bibtex: https://dblp.org/rec/conf/cslaw/ChanCVW25.html?view=bibtex
 
   - title: "Can the Government Compel Decryption? Don't Trust — Verify"
     authors: Aloni Cohen, Sarah Scheffler, Mayank Varia
-    conference: CSLaw 2022
+    conference: CS Law 2022
     pdf: https://dl.acm.org/doi/pdf/10.1145/3511265.3550441
     bibtex: https://dblp.org/rec/conf/cslaw/CohenSV22.html?view=bibtex
 
   - title: "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity"
     authors: Sarah Scheffler, Eran Tromer, Mayank Varia
-    conference: CSLaw 2022
+    conference: CS Law 2022
     pdf: https://dl.acm.org/doi/pdf/10.1145/3511265.3550444
     bibtex: https://dblp.org/rec/conf/cslaw/SchefflerTV22.html?view=bibtex
 
   - title: "Multi-Regulation Computing: Examining the Legal and Policy Questions That Arise From Secure Multiparty Computation"
     authors: Julissa Milligan Walsh, Mayank Varia, Aloni Cohen, Andrew Sellars, Azer Bestavros
-    conference: CSLaw 2022
+    conference: CS Law 2022
     pdf: https://dl.acm.org/doi/pdf/10.1145/3511265.3550445
     bibtex: https://dblp.org/rec/conf/cslaw/SchefflerTV22.html?view=bibtex
 
