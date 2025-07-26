@@ -1,5 +1,10 @@
 main:
 
+  - title: "Efficient Byzantine Broadcast from Succinct Erasure Coding Proof System"
+    authors: Nicolas Alhaddad, Sisi Duan, Mayank Varia, Haochen Wang, Haibin Zhang
+    conference: IEEE Transactions on Information Forensics and Security 2025
+    pdf: https://ieeexplore.ieee.org/document/11095700
+
   - title: "Haven++: Batched and Packed Dual-Threshold Asynchronous Complete Secret Sharing with Applications"
     authors: Nicolas Alhaddad, Mayank Varia, Ziling Yang
     conference: Communications in Cryptology 2024
