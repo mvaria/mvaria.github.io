@@ -157,17 +157,21 @@ Here are a few of my invited conference and seminar talks, which are available t
 
 ### Program committees
 
-- CS Law: [2025](https://computersciencelaw.org/2025/cfp), [2026](https://computersciencelaw.org/)
-- CSCML: [2025](https://www.cscml.org/)
-- TPS: [2024](https://sis.pitt.edu/lersais/conference/tps/2024/), [2025](https://www.sis.pitt.edu/lersais/conference/tps/2025/)
-- CSF: [2018](https://www.cs.ox.ac.uk/conferences/csf2018/pc.html), [2022](https://www.ieee-security.org/TC/CSF2022/committee.html), [2024](https://csf2024.ieee-security.org/committee.html), [2025](https://csf2025.ieee-security.org/committee.html)
-- USENIX Security: [2021](https://www.usenix.org/conference/usenixsecurity21), [2022](https://www.usenix.org/conference/usenixsecurity22), [2023](https://www.usenix.org/conference/usenixsecurity23), [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25)
-- CCSW: [2021](https://ccsw.io/2021/), [2022](https://ccsw.io/2022/), [2023](https://ccsw.io/2023/), [2024](https://ccsw.io/)
+General conferences
+- ACM CCS: [2021](https://www.sigsac.org/ccs/CCS2021/program-committee.html)
+- IACR CRYPTO: [2022](https://crypto.iacr.org/2022/callforpapers.php)
 - IEEE S&P / Oakland: [2020](https://www.ieee-security.org/TC/SP2020/cfpapers.html), [2023](https://www.ieee-security.org/TC/SP2023/cfpapers.html)
-- CRYPTO: [2022](https://crypto.iacr.org/2022/callforpapers.php)
-- CCS: [2021](https://www.sigsac.org/ccs/CCS2021/program-committee.html)
-- ICDCS: [2020](https://www.computer.org/csdl/proceedings-article/icdcs/2020/700200z030/1rsiNvuIoUM)
+- USENIX Security: [2021](https://www.usenix.org/conference/usenixsecurity21), [2022](https://www.usenix.org/conference/usenixsecurity22), [2023](https://www.usenix.org/conference/usenixsecurity23), [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25)
+
+Subject-matter specific conferences and workshops
+- ACM CCSW: [2021](https://ccsw.io/2021/), [2022](https://ccsw.io/2022/), [2023](https://ccsw.io/2023/), [2024](https://ccsw.io/2024/), [2025](https://ccsw.io/)
+- ACM CS & Law: [2025](https://computersciencelaw.org/2025/cfp), [2026](https://computersciencelaw.org/)
 - CANS: [2017](https://crypto.ie.cuhk.edu.hk/cans17/)
+- CSCML: [2025](https://www.cscml.org/)
+- IEEE CSF: [2018](https://www.cs.ox.ac.uk/conferences/csf2018/pc.html), [2022](https://www.ieee-security.org/TC/CSF2022/committee.html), [2024](https://csf2024.ieee-security.org/committee.html), [2025](https://csf2025.ieee-security.org/committee.html)
+- IEEE ICDCS: [2020](https://www.computer.org/csdl/proceedings-article/icdcs/2020/700200z030/1rsiNvuIoUM)
+- IEEE TPS: [2024](https://sis.pitt.edu/lersais/conference/tps/2024/), [2025](https://www.sis.pitt.edu/lersais/conference/tps/2025/)
+
 
 
 <div id="research"></div>
