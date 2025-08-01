@@ -42,8 +42,7 @@ _If you want to work on a research project under my mentorship and you_:
 
 - _Are a current BU undergraduate or MS student_, then register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUSec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email describing your interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
 
-- _Are not a current BU student_, then apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/).
-Please note that for the 2025-26 application cycle, I am **unlikely** to admit new PhD students. If you choose to apply, then make sure to describe clearly in your research statement (a) your prior work and future interests and (b) how they directly connect to my interests in applied cryptography.
+- _Are not a current BU student_, then you may apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/), but note that for the 2025-26 application cycle I am **unlikely** to admit new PhD students. If you choose to apply, then make sure to describe clearly in your research statement (a) your prior work and future interests and (b) how they directly connect to my interests in applied cryptography.
 <!--
 I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about this [competitive program](https://www.bu.edu/grad/why-bu/phd-program-profiles/computing-data-sciences/)). Describe your prior work and future interests clearly in your research statement. I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
 -->
@@ -158,13 +157,13 @@ Here are a few of my invited conference and seminar talks, which are available t
 
 ### Program committees
 
-General conferences
+Top-tier crypto and security conferences on [csrankings.org](https://csrankings.org/#/index?sec&crypt&us)
 - ACM CCS: [2021](https://www.sigsac.org/ccs/CCS2021/program-committee.html)
 - IACR CRYPTO: [2022](https://crypto.iacr.org/2022/callforpapers.php)
 - IEEE S&P / Oakland: [2020](https://www.ieee-security.org/TC/SP2020/cfpapers.html), [2023](https://www.ieee-security.org/TC/SP2023/cfpapers.html)
 - USENIX Security: [2021](https://www.usenix.org/conference/usenixsecurity21), [2022](https://www.usenix.org/conference/usenixsecurity22), [2023](https://www.usenix.org/conference/usenixsecurity23), [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25)
 
-Subject-matter specific conferences and workshops
+Additional conferences and workshops
 - ACM CCSW: [2021](https://ccsw.io/2021/), [2022](https://ccsw.io/2022/), [2023](https://ccsw.io/2023/), [2024](https://ccsw.io/2024/), [2025](https://ccsw.io/)
 - ACM CS & Law: [2025](https://computersciencelaw.org/2025/cfp), [2026](https://computersciencelaw.org/)
 - CANS: [2017](https://crypto.ie.cuhk.edu.hk/cans17/)
