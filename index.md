@@ -148,6 +148,8 @@ Here are a few of my invited conference and seminar talks, which are available t
 ### Conference and workshop organization
 
 - General chair, 44th Annual International Cryptology Conference (CRYPTO), August 2026
+- Co-organizer, [UC/EasyUC Summer School](https://www.bu.edu/riscs/events/uc-easyuc-summer-school/), August 2025
+- Co-organizer, [Workshop on Systems for Secure Multi-Party Computation (SysteMPC)](https://www.bu.edu/riscs/events/systempc/), July 2025
 - Local arrangements chair, [3rd ACM Symposium on Computer Science and Law](https://computersciencelaw.org/), March 2024
 - General chair, [33rd IEEE Computer Security Foundations Symposium](https://www.ieee-security.org/TC/CSF2020/), June 2020
 - Co-organizer, [DIMACS/MACS Workshop on Usable, Efficient, and Formally Verified Secure Computation](http://dimacs.rutgers.edu/events/details?eID=400), March 2019
