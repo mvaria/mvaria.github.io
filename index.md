@@ -22,7 +22,7 @@ I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/
 - 2025: Member of the [IACR Board of Directors](https://iacr.org/bod.html), received Best Paper award at [CS&Law 2025](https://computersciencelaw.org/2025-accepted-papers/)
 - 2024: Hosting [Dan Roche](https://roche.work/) as a visiting professor at BU
 - 2023: Received CDS [Distinguished Leadership Award](https://www.bu.edu/cds-faculty/2023/05/18/cds-launches-faculty-staff-awards-program-three-honored-for-citizenship-distinguished-leadership/) and a Hariri Institute [Innovation Award](https://www.bu.edu/hic/2023/06/21/2023-hariri-institute-community-recognition-awards/)
-- 2022: Hosted [Civic Voices](https://www.bu.edu/cds-faculty/2022/10/05/civic-voices-ecash-act/) event to discuss tech policy with two U.S. Representatives
+- 2022: Hosted [Civic Voices](https://www.bu.edu/cds-faculty/2022/10/05/civic-voices-ecash-act/) event to discuss privacy tech with two U.S. Representatives
 - 2021: Moved to BU [CDS](https://www.bu.edu/cds-faculty/) as an Associate Professor, and [received tenure](https://www.bu.edu/cds-faculty/2022/01/07/mayank-varia-tenured-associate-professor/)
 - 2020: General chair of [IEEE CSF 2020](https://www.ieee-security.org/TC/CSF2020/), and PI of a $4M [DARPA SIEVE grant](https://www.bu.edu/hic/2020/04/02/bu-riscs-researchers-win-two-grants-from-darpa/)
 - 2019: Featured in BU's [Annual Report](https://www.bu.edu/ar/2018/ethics-v-technology.html) and a [BU Research video](https://www.youtube.com/watch?v=l25jcolQW6Q)
@@ -38,14 +38,13 @@ Boston University has vibrant communities in [cybersecurity](https://www.bu.edu/
 
 _If you are a current BU student and want to serve as a teaching assistant_: please submit a [TF/TA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/tf-application/) (for graduate students) or a [CA Application](https://www.bu.edu/cds-faculty/culture-community/join-us/student-jobs/course-assistants/) (for undergraduate students). Unless you have already taken a course with me, do **not** email me about teaching assistantship positions; I will only review these application forms.
 
-_If you want to work on a research project under my mentorship and you_:
+_If you want to work on research under my mentorship and you are_:
 
-- _Are a current BU undergraduate or MS student_, then register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUSec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email describing your interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
+- _A current BU undergraduate or MS student_, then register for a cryptography course such as [Crypto for Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-453/) or [Fundamentals of Cryptography](https://www.bu.edu/academics/cas/courses/cas-cs-538/), and consider attending some [BUSec seminars](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/). These are the best ways to develop your skills and determine your interest level in cryptography. Then, write me an email describing your interests, and I will see if I have an ongoing or forthcoming research project where you can contribute.
 
-- _Are not a current BU student_, then you may apply to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/), but note that for the 2025-26 application cycle I am **unlikely** to admit new PhD students. If you choose to apply, then make sure to describe clearly in your research statement (a) your prior work and future interests and (b) how they directly connect to my interests in applied cryptography.
-<!--
-I will read your application if you clearly state my name as a potential advisor (but I am unlikely to respond to emails about this [competitive program](https://www.bu.edu/grad/why-bu/phd-program-profiles/computing-data-sciences/)). Describe your prior work and future interests clearly in your research statement. I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to crypto or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society. Interest in other social, natural, computational, or data sciences is a plus since I enjoy interdisciplinary research.
--->
+- _Applying to the [BU CDS PhD program](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/)_: for the 2025-26 application cycle I am **unlikely** to admit new PhD students. If you choose to apply, then make sure that your research statement describes clearly your prior work and future research interests. I will read your application if you clearly state my name as a potential advisor, but I do not respond to emails about this [competitive program](https://www.bu.edu/grad/why-bu/phd-program-profiles/computing-data-sciences/). I'm looking for students with a strong grasp of math fundamentals including writing proofs, some exposure to cryptography or theoretical computer science, and an enthusiasm to find new ways to apply cryptographic tools in society.
+
+- _A postdoctoral candidate_, then email me and include your CV. At the moment, I looking for a postdoc with research interests at the intersection of [systems and MPC](https://www.bu.edu/riscs/events/systempc/).
 
 
 <div id="teaching"></div>
@@ -93,7 +92,7 @@ MS alums
 - Yang Yang (2013, [thesis](https://dspace.mit.edu/handle/1721.1/85530)), co-advised with Ron Rivest
 
 Selected undergraduate alums
-- Kyle Hogan (2017). Currently a PhD student at MIT.
+- Kyle Hogan (2017). Completed PhD studies at MIT.
 - Ziling Yang (2021). Currently a PhD student at UIUC.
 - Xinyuan Zhang (2021). Currently a PhD student at Duke.
 - Julie Ha (2022). Currently a PhD student at BU.
