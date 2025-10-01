@@ -69,12 +69,12 @@ I develop cryptographic systems that allow people to collaboratively perform rel
 
 
 
-### <i class="fa fa-cloud"></i> Applied Cryptography
+### <i class="fa fa-balance-scale"></i> Cryptography & Society, Law, and Policy
 
-I design cryptographic protocols that are tailored to the functionality, security, and performance requirements of specific scenarios.
+I examine the social impact of cryptography and the design of cryptosystems that achieve certain legal and policy objectives.
 
 <ul>
-{% for link in site.data.appliedcrypto.main %}
+{% for link in site.data.lawpolicy.main %}
 <li>
     <strong>{{ link.title }}</strong>.
     {{ link.authors }}.
@@ -103,12 +103,12 @@ I design cryptographic protocols that are tailored to the functionality, securit
 
 
 
-### <i class="fa fa-balance-scale"></i> Cryptography & Society, Law, and Policy
+### <i class="fa fa-cloud"></i> Applied Cryptography
 
-I examine the social impact of cryptography and the design of cryptosystems that achieve certain legal and policy objectives.
+I design cryptographic protocols that are tailored to the functionality, security, and performance requirements of specific scenarios.
 
 <ul>
-{% for link in site.data.lawpolicy.main %}
+{% for link in site.data.appliedcrypto.main %}
 <li>
     <strong>{{ link.title }}</strong>.
     {{ link.authors }}.
