@@ -1,5 +1,12 @@
 main:
 
+  - title: "Orq: Complex Analytics on Private Data with Strong Security Guarantees"
+    authors: Eli Baum, Sam Buxbaum, Nitin Mathai, Muhammad Faisal, Vasiliki Kalavri, Mayank Varia, John Liagouris
+    conference: SOSP 2025
+    pdf: https://eprint.iacr.org/2025/1657.pdf
+    code: https://github.com/CASP-Systems-BU/orq/
+    # bibtex:
+
   - title: "TVA: A multi-party computation system for secure and expressive time series analytics"
     authors: Muhammad Faisal, Jerry Zhang, John Liagouris, Vasiliki Kalavri, Mayank Varia
     conference_short: 2023
