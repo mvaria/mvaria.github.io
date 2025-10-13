@@ -151,7 +151,7 @@ Additional conferences and workshops
 
 ### Conference and workshop organization
 
-- General chair, 44th Annual International Cryptology Conference (CRYPTO), August 2026
+- General chair, 46th Annual International Cryptology Conference (CRYPTO), August 2026
 - Co-organizer, [UC/EasyUC Summer School](https://www.bu.edu/riscs/events/uc-easyuc-summer-school/), August 2025
 - Co-organizer, [Workshop on Systems for Secure Multi-Party Computation (SysteMPC)](https://www.bu.edu/riscs/events/systempc/), July 2025
 - Local arrangements chair, [3rd ACM Symposium on Computer Science and Law](https://computersciencelaw.org/), March 2024
