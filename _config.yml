@@ -16,13 +16,15 @@ canonical: https://mvaria.com
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=lneZSfIAAAAJ
-# cv_link:
-# github_link: https://github.com/mvaria
-mastodon_link: https://ioc.exchange/@varia
 dblp_link: https://dblp.org/pid/59/6288.html
-# linkedin: 
-# twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=lneZSfIAAAAJ
+orcid_link: https://orcid.org/0000-0002-7460-3272
+github_link: https://github.com/mvaria
+bluesky_link: https://bsky.app/profile/mvaria.bsky.social
+mastodon_link: https://ioc.exchange/@varia
+# cv_link:
+# linkedin:
+# twitter:
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

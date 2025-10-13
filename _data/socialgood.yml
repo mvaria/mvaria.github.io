@@ -1,5 +1,11 @@
 main:
 
+  - title: "Privacy-Preserving Machine Learning on Web Browsing for Public Opinion"
+    authors: Sam Buxbaum, Lucas M. Tassis, Lucas Boschelli, Giovanni Comarela, Mayank Varia, Mark Crovella, Dino P. Christenson
+    conference: CSCML 2025
+    pdf: https://eprint.iacr.org/2025/1468.pdf
+    code: https://github.com/sambux1/opps-client
+
   - title: "Secure Account Recovery for a Privacy-Preserving Web Service"
     authors: Ryan Little, Lucy Qin, Mayank Varia
     conference: USENIX Security 2024

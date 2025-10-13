@@ -5,7 +5,7 @@ main:
     conference: SOSP 2025
     pdf: https://eprint.iacr.org/2025/1657.pdf
     code: https://github.com/CASP-Systems-BU/orq/
-    # bibtex:
+    bibtex: https://dblp.org/rec/conf/sosp/BaumBM0KVL25.html?view=bibtex
 
   - title: "TVA: A multi-party computation system for secure and expressive time series analytics"
     authors: Muhammad Faisal, Jerry Zhang, John Liagouris, Vasiliki Kalavri, Mayank Varia

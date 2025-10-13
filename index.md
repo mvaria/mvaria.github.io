@@ -2,6 +2,22 @@
 layout: homepage
 ---
 
+
+<div id="iacr"></div>
+## IACR Candidate Statement
+
+**I am running for IACR Vice President, and I would appreciate your vote!**
+
+I have been a crypto researcher for nearly two decades: I attended my first IACR conference in 2008, and I currently serve on the IACR Board of Directors in my role as General Chair of CRYPTO 2026. If elected, I plan to continue service to the IACR with the following goals:
+
+- Improve the openness of research publications and visibility of early-career researchers
+- Strengthen the culture of our interdisciplinary field so everyone feels at home in the IACR
+- Keep our close-knit community, while also growing and adapting our conferences to include more people and topic areas
+- Ensure that all IACR events are accessible and safe for everyone
+
+Based on my own career journey, I know firsthand that our vibrant community spans a wide range from foundational theory to applied security research, students to senior researchers, academia to industry, and everything in between. I strive to be a voice for all members of the IACR, and I welcome your suggestions on ways we can improve our organization and our community. You can reach me via email, <a href="https://bsky.app/profile/mvaria.bsky.social"><i class="fab fa-bluesky"></i> Bluesky</a>, or <a href="https://ioc.exchange/@varia"><i class="fab fa-mastodon"></i> Mastodon</a>.
+
+
 <div id="about"></div>
 ## About Me
 
@@ -111,17 +127,10 @@ I have co-authored papers with undergraduate students that have been published a
 - Committee member, [Advisory Committee on Data for Evidence Building](https://www.bea.gov/evidence), 2020-2022. Contributor to the committee's [year 1](https://www.bea.gov/system/files/2021-10/acdeb-year-1-report.pdf) and [year 2](https://www.bea.gov/system/files/2022-10/acdeb-year-2-report.pdf) reports.
 - Faculty mentor, [Codebreakers: Cybersecurity for Young Women in High School](https://www.bu.edu/lernet/cyber/), 2016-2021.
 
-### Conference and workshop organization
+### Professional service
 
-- General chair, 44th Annual International Cryptology Conference (CRYPTO), August 2026
-- Co-organizer, [UC/EasyUC Summer School](https://www.bu.edu/riscs/events/uc-easyuc-summer-school/), August 2025
-- Co-organizer, [Workshop on Systems for Secure Multi-Party Computation (SysteMPC)](https://www.bu.edu/riscs/events/systempc/), July 2025
-- Local arrangements chair, [3rd ACM Symposium on Computer Science and Law](https://computersciencelaw.org/), March 2024
-- General chair, [33rd IEEE Computer Security Foundations Symposium](https://www.ieee-security.org/TC/CSF2020/), June 2020
-- Co-organizer, [DIMACS/MACS Workshop on Usable, Efficient, and Formally Verified Secure Computation](http://dimacs.rutgers.edu/events/details?eID=400), March 2019
-- Finance chair, [19th International Symposium on Stabilization, Safety, and Security of Distributed Systems](https://www.cs.bgu.ac.il/~fradmin/SSS17/), November 2017
-- Co-organizer, [DIMACS/MACS Workshop on Cryptography for the RAM Model of Computation](http://archive.dimacs.rutgers.edu/Workshops/RAM/), June 2016
-- Co-organizer, [Universal Composability hackathon](https://www.bu.edu/macs/workshops/uc-hackathon/), March 2016
+- IACR board of directors: 2025-2026
+- IEEE CSF steering committee: 2018-2023
 
 ### Program committees
 
@@ -139,6 +148,18 @@ Additional conferences and workshops
 - IEEE CSF: [2018](https://www.cs.ox.ac.uk/conferences/csf2018/pc.html), [2022](https://www.ieee-security.org/TC/CSF2022/committee.html), [2024](https://csf2024.ieee-security.org/committee.html), [2025](https://csf2025.ieee-security.org/committee.html)
 - IEEE ICDCS: [2020](https://www.computer.org/csdl/proceedings-article/icdcs/2020/700200z030/1rsiNvuIoUM)
 - IEEE TPS: [2024](https://sis.pitt.edu/lersais/conference/tps/2024/), [2025](https://www.sis.pitt.edu/lersais/conference/tps/2025/)
+
+### Conference and workshop organization
+
+- General chair, 44th Annual International Cryptology Conference (CRYPTO), August 2026
+- Co-organizer, [UC/EasyUC Summer School](https://www.bu.edu/riscs/events/uc-easyuc-summer-school/), August 2025
+- Co-organizer, [Workshop on Systems for Secure Multi-Party Computation (SysteMPC)](https://www.bu.edu/riscs/events/systempc/), July 2025
+- Local arrangements chair, [3rd ACM Symposium on Computer Science and Law](https://computersciencelaw.org/), March 2024
+- General chair, [33rd IEEE Computer Security Foundations Symposium](https://www.ieee-security.org/TC/CSF2020/), June 2020
+- Co-organizer, [DIMACS/MACS Workshop on Usable, Efficient, and Formally Verified Secure Computation](http://dimacs.rutgers.edu/events/details?eID=400), March 2019
+- Finance chair, [19th International Symposium on Stabilization, Safety, and Security of Distributed Systems](https://www.cs.bgu.ac.il/~fradmin/SSS17/), November 2017
+- Co-organizer, [DIMACS/MACS Workshop on Cryptography for the RAM Model of Computation](http://archive.dimacs.rutgers.edu/Workshops/RAM/), June 2016
+- Co-organizer, [Universal Composability hackathon](https://www.bu.edu/macs/workshops/uc-hackathon/), March 2016
 
 
 

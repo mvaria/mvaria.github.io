@@ -4,6 +4,7 @@ main:
     authors: Nicolas Alhaddad, Sisi Duan, Mayank Varia, Haochen Wang, Haibin Zhang
     conference: IEEE Transactions on Information Forensics and Security 2025
     pdf: https://ieeexplore.ieee.org/document/11095700
+    bibtex: https://dblp.org/rec/journals/tifs/AlhaddadDVWZ25.html?view=bibtex
 
   - title: "Haven++: Batched and Packed Dual-Threshold Asynchronous Complete Secret Sharing with Applications"
     authors: Nicolas Alhaddad, Mayank Varia, Ziling Yang
