@@ -3,21 +3,6 @@ layout: homepage
 ---
 
 
-<div id="iacr"></div>
-## IACR Candidate Statement
-
-**I am running for IACR Vice President, and I would appreciate your vote!**
-
-I have been a crypto researcher for nearly two decades: I attended my first IACR conference in 2008, and I currently serve on the IACR Board of Directors in my role as General Chair of CRYPTO 2026. If elected, I plan to continue service to the IACR with the following goals:
-
-- Improve the openness of research publications and visibility of early-career researchers
-- Strengthen the culture of our interdisciplinary field so everyone feels at home in the IACR
-- Keep our close-knit community, while also growing and adapting our conferences to include more people and topic areas
-- Ensure that all IACR events are accessible and safe for everyone
-
-Based on my own career journey, I know firsthand that our vibrant community spans a wide range from foundational theory to applied security research, students to senior researchers, academia to industry, and everything in between. I strive to be a voice for all members of the IACR, and I welcome your suggestions on ways we can improve our organization and our community. You can reach me via email, <a href="https://bsky.app/profile/mvaria.bsky.social"><i class="fab fa-bluesky"></i> Bluesky</a>, or <a href="https://ioc.exchange/@varia"><i class="fab fa-mastodon"></i> Mastodon</a>.
-
-
 <div id="about"></div>
 ## About Me
 
