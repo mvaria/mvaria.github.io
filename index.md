@@ -86,7 +86,7 @@ Postdoctoral scholar
 
 PhD alums
 - [Sarah Scheffler](https://www.sarahscheffler.net/) (2016-2021, [thesis](https://hdl.handle.net/2144/42970)), now an Assistant Professor at Carnegie Mellon University
-- [Rawane Issa](https://www.ra1issa.com/) (2016-2022, [thesis](https://hdl.handle.net/2144/46383)), now a researcher at Galois
+- [Rawane Issa](https://www.galois.com/team/rawane-issa) (2016-2022, [thesis](https://hdl.handle.net/2144/46383)), now a researcher at Galois
 - [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (2018-2024), now a postdoc with [Eran Tromer](https://cs-people.bu.edu/tromer/)
 
 MS alums
