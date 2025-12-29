@@ -85,8 +85,8 @@ Postdoctoral scholar
 - [Alishah Chator](https://alishahc.com/) (2023-2025), now an Assistant Professor at Baruch College
 
 PhD alums
-- [Sarah Scheffler](https://www.sarahscheffler.net/) (2016-2021, [thesis](https://hdl.handle.net/2144/42970)), now an Assistant Professor at Carnegie Mellon University
-- [Rawane Issa](https://www.galois.com/team/rawane-issa) (2016-2022, [thesis](https://hdl.handle.net/2144/46383)), now a researcher at Galois
+- [Sarah Scheffler](https://www.sarahscheffler.net/) (2016-2021, [thesis](https://hdl.handle.net/2144/42970)), now an Assistant Professor at [Carnegie](https://epp.engineering.cmu.edu/directory/bios/scheffler-sarah.html) [Mellon](https://s3d.cmu.edu/people/core-faculty/scheffler-sarah.html) University
+- [Rawane Issa](https://www.galois.com/team/rawane-issa) (2016-2022, [thesis](https://hdl.handle.net/2144/46383)), now a researcher at [Galois](https://www.galois.com/)
 - [Nicolas Alhaddad](https://cs-people.bu.edu/nhaddad/) (2018-2024), now a postdoc with [Eran Tromer](https://cs-people.bu.edu/tromer/)
 - [Palak Jain](https://thepalakjain.com/) (2019-2025, co-advised with [Adam Smith](https://cs-people.bu.edu/ads22/)), now a researcher at [Apple](https://www.apple.com/)
 
