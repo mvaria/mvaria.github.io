@@ -33,7 +33,7 @@ main:
     pdf: https://static1.squarespace.com/static/5dafd58b3aca646be471ba55/t/61bf43f9ae1115480709395f/1639924730113/callisto-cryptographic-approach.pdf
     bibtex: https://dblp.org/rec/conf/dev/RajanQABLV18.html?view=bibtex
 
-  - title: "User-centric distributed solutions for privacy-preserving analytics"
+  - title: "User-centric Distributed Solutions for Privacy-Preserving Analytics"
     authors: Azer Bestavros, Andrei Lapets, Mayank Varia
     conference: Communications of the ACM 2017
     pdf: https://dl.acm.org/doi/pdf/10.1145/3029603

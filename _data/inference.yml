@@ -18,7 +18,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/7028548
     bibtex: https://dblp.org/rec/conf/allerton/CalmonVM14.html?view=bibtex
 
-  - title: "Bounds on inference"
+  - title: "Bounds on Inference"
     authors: Flávio P. Calmon, Mayank Varia, Muriel Médard, Mark M. Christiansen, Ken R. Duffy, Stefano Tessaro
     conference: Allerton 2013
     pdf: https://arxiv.org/pdf/1310.1512.pdf
