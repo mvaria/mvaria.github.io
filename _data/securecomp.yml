@@ -2,7 +2,7 @@ main:
 
   - title: "ORQ: Complex Analytics on Private Data with Strong Security Guarantees"
     authors: Eli Baum, Sam Buxbaum, Nitin Mathai, Muhammad Faisal, Vasiliki Kalavri, Mayank Varia, John Liagouris
-    conference: SOSP 2025
+    conference: SOSP 2025 (Distinguished Artifact Award)
     pdf: https://eprint.iacr.org/2025/1657.pdf
     code: https://github.com/CASP-Systems-BU/orq/
     bibtex: https://dblp.org/rec/conf/sosp/BaumBM0KVL25.html?view=bibtex

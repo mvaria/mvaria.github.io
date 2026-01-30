@@ -1,5 +1,10 @@
 main:
 
+  - title: "Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem"
+    authors: Kyle Hogan, Alishah Chator, Gabriel Kaptchuk, Mayank Varia, Srinivas Devadas
+    conference: PETS 2026
+    pdf: https://eprint.iacr.org/2025/2316.pdf
+
   - title: "Murmurs of the Silenced: Secure Reporting of Misconduct Settlements"
     authors: Peter K. Chan, Alyson Carrel, Mayank Varia, Xiao Wang
     conference: CS Law 2025 (Best Paper Award)
