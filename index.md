@@ -134,6 +134,8 @@ Additional conferences and workshops
 - IEEE CSF: [2018](https://www.cs.ox.ac.uk/conferences/csf2018/pc.html), [2022](https://www.ieee-security.org/TC/CSF2022/committee.html), [2024](https://csf2024.ieee-security.org/committee.html), [2025](https://csf2025.ieee-security.org/committee.html)
 - IEEE ICDCS: [2020](https://www.computer.org/csdl/proceedings-article/icdcs/2020/700200z030/1rsiNvuIoUM)
 - IEEE TPS: [2024](https://sis.pitt.edu/lersais/conference/tps/2024/), [2025](https://www.sis.pitt.edu/lersais/conference/tps/2025/)
+- PETS: 2027
+
 
 ### Conference and workshop organization
 
@@ -197,6 +199,7 @@ I am grateful for the research support provided by the following organizations.
 
 - National Science Foundation: Grants [1414119](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1414119), [1718135](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1718135), [1739000](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1739000), [1801564](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1801564), [1915763](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915763), [1931714](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931714), [1955579](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955579), [2209194](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209194), [2217770](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217770), and [2228610](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2228610)
 - DARPA: [HARDEN](https://www.darpa.mil/program/hardening-development-toolchains-against-emergent-execution-engines) ([Contract N66001-22-C-4020](https://www.riversideresearch.org/insights/riverside-research-wins-darpa-harden-contract-award-to-improve-national-cybersecurity-efforts)), [SIEVE](https://www.darpa.mil/program/securing-information-for-encrypted-verification-and-evaluation) ([Agreement HR00112020021](https://www.bu.edu/hic/2020/04/02/bu-riscs-researchers-win-two-grants-from-darpa/)), and [Brandeis](https://www.darpa.mil/program/brandeis) (Contract N66001-15-C-407)
+- [Foresight Institute](https://foresight.org/grants/grants-ai-for-science-safety/)
 - [Honda Research Institute Europe](https://www.honda-ri.de/)
 - [Massachusetts Technology Collaborative](https://masstech.org/)
 - [Red Hat Collaboratory](https://www.bu.edu/rhcollab/)
