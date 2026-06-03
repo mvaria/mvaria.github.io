@@ -1,24 +1,9 @@
 source "https://rubygems.org"
-
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-# gem "jekyll", "~> 3.8.5"
-
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
-
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
+gem "minima", "~> 2.0"
 gem "webrick", "~> 1.8.2"
-
 gem "rexml", ">= 3.4.2"
-gem "nokogiri", ">= 1.18.9"
+gem "nokogiri", ">= 1.19.3"
 gem "uri", ">= 1.0.4"
+gem "addressable", ">= 2.9.0"
