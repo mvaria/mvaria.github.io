@@ -19,7 +19,7 @@ I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/
 
 ### News
 
-- 2026: General chair of [IACR CRYPTO 2026](https://crypto.iacr.org/)
+- 2026: General chair of [IACR CRYPTO 2026](https://crypto.iacr.org/2026/)
 - 2025: [CS&Law Best Paper](https://computersciencelaw.org/2025-accepted-papers/) and [SOSP Distinguished Artifact](https://sites.bu.edu/casp/2025/10/14/orq-receives-the-distinguished-artifact-award-at-sosp25/) awards, member of [IACR Board](https://iacr.org/bod.html)
 - 2024: Hosted [Dan Roche](https://roche.work/) as a visiting professor at BU
 - 2023: Received CDS [Distinguished Leadership Award](https://www.bu.edu/cds-faculty/2023/05/18/cds-launches-faculty-staff-awards-program-three-honored-for-citizenship-distinguished-leadership/) and a Hariri Institute [Innovation Award](https://www.bu.edu/hic/2023/06/21/2023-hariri-institute-community-recognition-awards/)
@@ -139,7 +139,7 @@ Additional conferences and workshops
 
 ### Conference and workshop organization
 
-- General chair, 46th Annual International Cryptology Conference (CRYPTO), August 2026
+- General chair, [46th Annual International Cryptology Conference (CRYPTO)](https://crypto.iacr.org/2026/), August 2026
 - Co-organizer, [UC/EasyUC Summer School](https://www.bu.edu/riscs/events/uc-easyuc-summer-school/), August 2025
 - Co-organizer, [Workshop on Systems for Secure Multi-Party Computation (SysteMPC)](https://www.bu.edu/riscs/events/systempc/), July 2025
 - Local arrangements chair, [3rd ACM Symposium on Computer Science and Law](https://computersciencelaw.org/), March 2024
