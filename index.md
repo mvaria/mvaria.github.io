@@ -128,7 +128,7 @@ Top-tier crypto and security conferences on [csrankings.org](https://csrankings.
 
 Additional conferences and workshops
 - ACM CCSW: [2021](https://ccsw.io/2021/), [2022](https://ccsw.io/2022/), [2023](https://ccsw.io/2023/), [2024](https://ccsw.io/2024/), [2025](https://ccsw.io/)
-- ACM CS & Law: [2025](https://computersciencelaw.org/2025/cfp), [2026](https://computersciencelaw.org/)
+- ACM CS & Law: [2025](https://computersciencelaw.org/2025/cfp), [2026](https://computersciencelaw.org/), 2027
 - CANS: [2017](https://crypto.ie.cuhk.edu.hk/cans17/)
 - CSCML: [2025](https://www.cscml.org/)
 - IEEE CSF: [2018](https://www.cs.ox.ac.uk/conferences/csf2018/pc.html), [2022](https://www.ieee-security.org/TC/CSF2022/committee.html), [2024](https://csf2024.ieee-security.org/committee.html), [2025](https://csf2025.ieee-security.org/committee.html), [2027](https://csf2027.ieee-security.org/committee.html)
