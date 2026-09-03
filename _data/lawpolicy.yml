@@ -35,9 +35,3 @@ main:
     pdf: https://eprint.iacr.org/2020/862.pdf
     code: https://github.com/sarahscheffler/password-ag2pc
     bibtex: https://dblp.org/rec/conf/uss/SchefflerV21.html?view=bibtex
-
-  - title: "A Cryptographic Airbag for Metadata: Protecting Business Records Against Unlimited Search and Seizure"
-    authors: Charles V. Wright, Mayank Varia
-    conference: FOCI 2018
-    pdf: https://www.usenix.org/system/files/conference/foci18/foci18-paper-wright.pdf
-    bibtex: https://dblp.org/rec/conf/uss/WrightV18.html?view=bibtex

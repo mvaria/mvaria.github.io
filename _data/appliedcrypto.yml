@@ -1,5 +1,11 @@
 main:
 
+  - title: "Ticket to Hide: Private, Practical Proofs of Provenance for TLS"
+    authors: Ryan Little, Daniel S. Roche, Mayank Varia
+    conference: NDSS 2027
+    pdf: https://eprint.iacr.org/2026/540.pdf
+    code: https://github.com/ryanjlittle/ticket-to-hide
+
   - title: "Hecate: Abuse Reporting in Secure Messengers with Sealed Sender"
     authors: Rawane Issa, Nicolas Alhaddad, Mayank Varia
     conference: USENIX Security 2022

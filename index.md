@@ -12,14 +12,14 @@ My research interests span theoretical and applied cryptography and its applicat
 - Deploy privacy-respecting systems for data scientists to work with data they cannot see
 - Examine the social aspects of cryptography, including its impacts on law and public policy
 
-I work as an Associate Professor in the [Faculty of Computing & Data Sciences](https://www.bu.edu/cds-faculty/) (CDS) at [Boston University](https://www.bu.edu/). I serve as director of the [CDS Hub for Civic Tech Impact](https://www.bu.edu/cds-faculty/research-impact/civic-tech/), co-director of [BU's Center for Reliable Information Systems & Cyber Security](https://www.bu.edu/riscs/) (RISCS), member of the [BU Security Group](https://www.bu.edu/cs/research-groups/security/busec/), and member of the [Cyber Security, Law, and Society Alliance](https://www.bu.edu/hic/centers-initiatives-labs/cyber-alliance/). I am also an affiliate of BU's [Computer Science department](https://www.bu.edu/cs/people/faculty/). My office is located on the 13th floor of BU's new [jenga](https://www.bu.edu/cds-faculty/explore/bu-center-for-computing-data-sciences/) [building](https://www.bu.edu/sustainability/projects/center-for-computing-data-sciences/).
+I work as an Associate Professor in the [Faculty of Computing & Data Sciences](https://www.bu.edu/cds-faculty/) (CDS) at [Boston University](https://www.bu.edu/), where I also serve as co-director of [BU's Center for Reliable Information Systems & Cyber Security](https://www.bu.edu/riscs/) (RISCS), member of the [BU Security Group](https://www.bu.edu/cs/research-groups/security/busec/), and member of the [Cyber Security, Law, and Society Alliance](https://www.bu.edu/hic/centers-initiatives-labs/cyber-alliance/). I am also an affiliate of BU's [Computer Science department](https://www.bu.edu/cs/people/faculty/). My office is located on the 13th floor of BU's new [jenga](https://www.bu.edu/cds-faculty/explore/bu-center-for-computing-data-sciences/) [building](https://www.bu.edu/sustainability/projects/center-for-computing-data-sciences/).
 
 I received a [PhD in Mathematics from MIT](https://dspace.mit.edu/handle/1721.1/64489) in 2010, and a [BSE from Duke University](https://math.duke.edu/undergraduate/graduation-with-distinction/senior-theses) in 2005.
 
 
 ### News
 
-- 2026: General chair of [IACR CRYPTO 2026](https://crypto.iacr.org/2026/)
+- 2026: General chair of [IACR CRYPTO 2026](https://crypto.iacr.org/2026/), continued service on [IACR Board](https://iacr.org/bod.html)
 - 2025: [CS&Law Best Paper](https://computersciencelaw.org/2025-accepted-papers/) and [SOSP Distinguished Artifact](https://sites.bu.edu/casp/2025/10/14/orq-receives-the-distinguished-artifact-award-at-sosp25/) awards, member of [IACR Board](https://iacr.org/bod.html)
 - 2024: Hosted [Dan Roche](https://roche.work/) as a visiting professor at BU
 - 2023: Received CDS [Distinguished Leadership Award](https://www.bu.edu/cds-faculty/2023/05/18/cds-launches-faculty-staff-awards-program-three-honored-for-citizenship-distinguished-leadership/) and a Hariri Institute [Innovation Award](https://www.bu.edu/hic/2023/06/21/2023-hariri-institute-community-recognition-awards/)
@@ -70,7 +70,6 @@ I am fortunate to work with an excellent group of graduate and undergraduate stu
 PhD students
 - [Julie Ha](https://www.hajulie.com/) (2022-present)
 - [Ryan Little](https://ryanlittle.net/) (2022-present)
-- [Eli Baum](https://elibaum.com/) (2023-present), co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/)
 - [Sam Buxbaum](https://sambux.org/) (2023-present), co-advising with [John Liagouris](https://cs-people.bu.edu/liagos/)
 - [Julia Guskind](https://julia-guskind.github.io/) (2023-present), co-advising with [Leo Reyzin](https://www.cs.bu.edu/~reyzin/)
 - [René Reyes](https://ardee-reyes.github.io/) (2023-present), co-advising with [Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/)
@@ -100,7 +99,8 @@ Selected undergraduate alums
 - Julie Ha (2022), currently a PhD student at BU
 - Annie (Ting Chien) Huang (2025), currently a PhD student at the University of Washington
 
-I have co-authored papers with undergraduate students that have been published at [CANS 2016](https://open.bu.edu/handle/2144/20634), [CSF 2017](https://eprint.iacr.org/2017/1256.pdf), [FC 2017](https://eprint.iacr.org/2016/1006.pdf), [SecDev 2019](https://eprint.iacr.org/2018/602.pdf), [SOUPS 2019](https://www.usenix.org/system/files/soups2019-qin.pdf), [STAST 2019](https://link.springer.com/chapter/10.1007/978-3-030-55958-8_10), [ACNS 2021](https://eprint.iacr.org/2021/478.pdf), [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/presentation/faisal), [CIC 2024](https://cic.iacr.org/p/1/4/3/pdf), [SIGMOD 2024](https://cs-people.bu.edu/liagos/material/qs-sigmod24.pdf), and the [Journal of Young Investigators](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10321550/).
+I have co-authored papers with undergraduate students that have been published at [CANS 2016](https://open.bu.edu/handle/2144/20634), [CSF 2017](https://eprint.iacr.org/2017/1256.pdf), [FC 2017](https://eprint.iacr.org/2016/1006.pdf), [SecDev 2019](https://eprint.iacr.org/2018/602.pdf), [SOUPS 2019](https://www.usenix.org/system/files/soups2019-qin.pdf), [STAST 2019](https://link.springer.com/chapter/10.1007/978-3-030-55958-8_10), [ACNS 2021](https://eprint.iacr.org/2021/478.pdf), [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/presentation/faisal), [CIC 2024](https://cic.iacr.org/p/1/4/3/pdf), [SIGMOD 2024](https://cs-people.bu.edu/liagos/material/qs-sigmod24.pdf), [SOSP 2026](https://arxiv.org/pdf/2608.17529), and the [Journal of Young Investigators](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10321550/).
+
 
 
 <div id="service"></div>
@@ -124,7 +124,7 @@ Top-tier crypto and security conferences on [csrankings.org](https://csrankings.
 - ACM CCS: [2021](https://www.sigsac.org/ccs/CCS2021/program-committee.html)
 - IACR CRYPTO: [2022](https://crypto.iacr.org/2022/callforpapers.php)
 - IEEE S&P / Oakland: [2020](https://www.ieee-security.org/TC/SP2020/cfpapers.html), [2023](https://www.ieee-security.org/TC/SP2023/cfpapers.html)
-- USENIX Security: [2021](https://www.usenix.org/conference/usenixsecurity21), [2022](https://www.usenix.org/conference/usenixsecurity22), [2023](https://www.usenix.org/conference/usenixsecurity23), [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25)
+- USENIX Security: [2021](https://www.usenix.org/conference/usenixsecurity21), [2022](https://www.usenix.org/conference/usenixsecurity22), [2023](https://www.usenix.org/conference/usenixsecurity23), [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25), [2027](https://www.usenix.org/conference/usenixsecurity27)
 
 Additional conferences and workshops
 - ACM CCSW: [2021](https://ccsw.io/2021/), [2022](https://ccsw.io/2022/), [2023](https://ccsw.io/2023/), [2024](https://ccsw.io/2024/), [2025](https://ccsw.io/)
@@ -134,7 +134,7 @@ Additional conferences and workshops
 - IEEE CSF: [2018](https://www.cs.ox.ac.uk/conferences/csf2018/pc.html), [2022](https://www.ieee-security.org/TC/CSF2022/committee.html), [2024](https://csf2024.ieee-security.org/committee.html), [2025](https://csf2025.ieee-security.org/committee.html), [2027](https://csf2027.ieee-security.org/committee.html)
 - IEEE ICDCS: [2020](https://www.computer.org/csdl/proceedings-article/icdcs/2020/700200z030/1rsiNvuIoUM)
 - IEEE TPS: [2024](https://sis.pitt.edu/lersais/conference/tps/2024/), [2025](https://www.sis.pitt.edu/lersais/conference/tps/2025/)
-- PETS: 2027
+- PETS: [2027](https://petsymposium.org/2027/)
 
 
 ### Conference and workshop organization

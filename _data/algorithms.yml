@@ -35,9 +35,3 @@ main:
     conference: PKC 2021
     pdf: https://eprint.iacr.org/2020/1547.pdf
     bibtex: https://dblp.org/rec/conf/pkc/HamlinV21.html?view=bibtex
-
-  - title: "Bounded-Collusion Attribute-Based Encryption from Minimal Assumptions"
-    authors: Gene Itkis, Emily Shen, Mayank Varia, David Wilson, Arkady Yerukhimovich
-    conference: PKC 2017
-    pdf: https://eprint.iacr.org/2017/029.pdf
-    bibtex: https://dblp.org/rec/conf/pkc/ItkisSVWY17.html?view=bibtex

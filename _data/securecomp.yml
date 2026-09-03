@@ -1,5 +1,11 @@
 main:
 
+  - title: "CryptDough: A unified analytics engine for secure multiparty computation"
+    authors: Muhammad Faisal, Alessandra Lanz, Sam Buxbaum, Adam Godel, Vasiliki Kalavri, Mayank Varia, John Liagouris
+    conference: SOSP 2026
+    pdf: https://arxiv.org/pdf/2608.17529
+    code: https://github.com/CASP-Systems-BU/CryptDough
+
   - title: "ORQ: Complex Analytics on Private Data with Strong Security Guarantees"
     authors: Eli Baum, Sam Buxbaum, Nitin Mathai, Muhammad Faisal, Vasiliki Kalavri, Mayank Varia, John Liagouris
     conference: SOSP 2025 (Distinguished Artifact Award)
